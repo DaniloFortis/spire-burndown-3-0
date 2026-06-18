@@ -106,7 +106,12 @@ jobs:
 
           # Check if there are changes
           if [[ -n $(git status --porcelain) ]]; then
-            git add docs/index.html burndown_projections.json historical_actuals_*.json burndown_chart.png slack_message.json spire_3_0_projection_dashboard.html
+            # Add only files that exist (burndown_chart.png/slack_message.json are
+            # optional outputs from Slack generation, which isn't wired up yet).
+            git add docs/index.html burndown_projections.json spire_3_0_projection_dashboard.html
+            git add historical_actuals_*.json 2>/dev/null || true
+            [ -f burndown_chart.png ] && git add burndown_chart.png || true
+            [ -f slack_message.json ] && git add slack_message.json || true
 
             # Get metrics for commit message
             BUGS=$(python -c "import json; data=json.load(open('burndown_projections.json')); print(data['current_active_bugs'])")
