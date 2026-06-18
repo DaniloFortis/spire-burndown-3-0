@@ -1,0 +1,48 @@
+{
+  "calculated_date": "2026-05-21T13:45:06.828108",
+  "methodology": "Net bugs fixed over final 10 business days before ship",
+  "calculation": "Daily rate = -((bugs_fixed - bugs_found) / 10 business days)",
+  "milestones_analyzed": [
+    "1.7.0",
+    "1.8.0",
+    "1.9.0"
+  ],
+  "business_days": 10,
+  "historical_daily_rate": -3.8,
+  "rate_interpretation": "Negative = burning down (reducing backlog), Positive = accumulating (growing backlog)",
+  "milestone_analyses": [
+    {
+      "milestone": "1.7.0",
+      "ship_date": "2026-02-11T00:00:00",
+      "period_start": "2026-01-01T00:00:00",
+      "business_days": 10,
+      "total_milestone_bugs": 131,
+      "bugs_found_in_period": 91,
+      "bugs_fixed": 130,
+      "net_bugs_removed": 39,
+      "daily_rate": -3.9
+    },
+    {
+      "milestone": "1.8.0",
+      "ship_date": "2026-04-17T00:00:00",
+      "period_start": "2026-02-11T00:00:00",
+      "business_days": 10,
+      "total_milestone_bugs": 188,
+      "bugs_found_in_period": 139,
+      "bugs_fixed": 188,
+      "net_bugs_removed": 49,
+      "daily_rate": -4.9
+    },
+    {
+      "milestone": "1.9.0",
+      "ship_date": "2026-04-28T00:00:00",
+      "period_start": "2026-04-17T00:00:00",
+      "business_days": 10,
+      "total_milestone_bugs": 33,
+      "bugs_found_in_period": 7,
+      "bugs_fixed": 33,
+      "net_bugs_removed": 26,
+      "daily_rate": -2.6
+    }
+  ]
+}

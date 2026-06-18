@@ -1,0 +1,660 @@
+Bug ID,Milestone,Status,Date Created,Date Closed,Days Open,Bug Title
+86ahkctg5,2.0.0 Global,to-do,2026-05-20,,,[UI/UX] Label is not displaying in the correct shape
+86ahk7xxk,2.0.0 Global,to-do,2026-05-19,,,Crash: TextResponseException 504 Gateway Time-out from GRACE content API
+86ahk7ap8,2.0.0 Global,build pending,2026-05-19,,,"[Events][Freeze][Buttons] Buttons in any Event menu stop working when trying to purchase ""Event deal"
+86ahk755e,2.0.0 Global,code review,2026-05-19,,,Crash: CantPerformActionsWhileResyncing in ActionHelper.DoAction (Emporium purchase)
+86ahk6u5t,2.0.0 Global,to-do,2026-05-19,,,Crash: NullReferenceException in ConfirmWindowBuilder.ShowAboveScreenStack during boot
+86ahk6gca,2.0.0 Global,in progress,2026-05-19,,,[Portals] Portals don't show incoming enemies when tapping on them on the Main Base.
+86ahk6gbe,2.0.0 Global,build pending,2026-05-19,,,[Spire] [UI/UX] [2BE] “Thron Event” Waves Cannot Be Completed With Current Player Loadout.
+86ahk0q8x,2.0.0 Global,to-do,2026-05-19,,,[AdMon] [Energy] Energy is not being granted by Video AD. - Video.
+86ahk02h0,2.0.0 Global,Closed,2026-05-19,2026-05-20,1,[Loading][Stuck] Launching after freeze caused by villager makes loading stuck at 99%
+86ahjzwmm,2.0.0 Global,in qa,2026-05-19,,,[Tutorial] Everbloom's tutorial triggers at the wrong spot when player collects gold
+86ahjzeej,2.0.0 Global,in qa,2026-05-19,,,[Freeze][Villager] Game freezes when recollecting a Villager's reward
+86ahjvwfe,2.0.0 Global,to-do,2026-05-19,,,[LIVE][Migration] Cannot progress past wave 42 after migrating to 1.11.0
+86ahju143,2.0.0 Global,to-do,2026-05-19,,,[UX/UI] [MBE] Details Page On Energy Events Has Little Information
+86ahjq9mg,2.0.0 Global,to-do,2026-05-19,,,[Store] Google Play $99.99 IAP fails on FEAT SKU but succeeds on DEV SKU
+86ahjn8aq,2.0.0 Global,to-do,2026-05-19,,,"[ServerMigration][Grid][Wave] After the server migration, some grid elements go invisible, and Waves"
+86ahjcvba,2.0.0 Global,build pending,2026-05-18,,,"[Localization] [German] Text does not fit in ""Tap to Harvest"" and Reset time"
+86ahjctjv,2.0.0 Global,in qa,2026-05-18,,,[Localization] [All] Wonder descriptions are too long to fit
+86ahjcpx5,2.0.0 Global,in qa,2026-05-18,,,[Localization] [All] Image overlaps content
+86ahjann6,2.0.0 Global,to-do,2026-05-18,,,[MBE] portal rift has not a “coming soon” or any timer when is inactive and an event it’s about to s
+86ahjaefg,2.0.0 Global,to-do,2026-05-18,,,[UX/UI] Player profile tap closes tapping anywhere
+86ahj7rub,2.0.0 Global,to-do,2026-05-18,,,"[Territory progression][Main Base] Wave 42 threshold conditions extends to nearby tiles, blocking th"
+86ahj730c,2.0.0 Global,Closed,2026-05-18,2026-05-19,0,[MBE] Battle summary is missing from event Victory screen
+86ahj5pvy,2.0.0 Global,to-do,2026-05-18,,,[UX/UI] [Territory Progression]  Land Requirements Display Can Be Tapped Outside Display
+86ahj5h9n,2.0.0 Global,Closed,2026-05-18,2026-05-19,0,[UX/UI] [Mailbox] Red Dot Notification In Mailbox Will Also Appear On Chat Icon
+86ahj5a0y,2.0.0 Global,to-do,2026-05-18,,,[UX/UI] [Territory Progression] Land Requirements Display Obstructs A Tile In The Map
+86ahj2m88,2.0.0 Global,to-do,2026-05-18,,,"[UX/UI] ""LEFT!"" text partially obstructed"
+86ahj1hgy,2.0.0 Global,to-do,2026-05-18,,,[Intertstitials] items descriptions popup behind interstitials
+86ahhtf16,2.0.0 Global,Closed,2026-05-18,2026-05-19,1,[Castle] [Main Base] The Castle can't be upgraded on latest DEV. Video.
+86ahgx9f4,2.0.0 Global,Closed,2026-05-15,2026-05-20,4,[Castle] Unable to upgrade castle to level 20
+86ahgqek7,2.0.0 Global,to-do,2026-05-15,,,[CleverTap] [Remote push notification] It's not possible to buy an interstitial deal when receiving 
+86ahgpfw9,2.0.0 Global,in qa,2026-05-15,,,[Seen Once] Logginig in account appears with the war fog 10 tiles unaligned
+86ahgmzwp,2.0.0 Global,to-do,2026-05-15,,,[Dragons] ERROR being displayed instead of Grass/Plant dragon type on the Hero Details screen
+86ahgj9vy,2.0.0 Global,to-do,2026-05-15,,,Update Spellbook to Use PopulationHouse and Review for 2.0
+86ahgenzt,2.0.0 Global,Closed,2026-05-15,2026-05-18,3,[Shop] Incorrect Redirection from 'See More' Button
+86ahg6e75,2.0.0 Global,Closed,2026-05-14,2026-05-19,4,"[LIVE][Main Base] Enemy portal is movable - fix by ""locking"" them in the main base"
+86ahg61t0,2.0.0 Global,to-do,2026-05-14,,,[Main base] The music overlaps with victory screen SFX
+86ahg5tbb,2.0.0 Global,to-do,2026-05-14,,,[Localization] [All] Language list in Guild settings is not localized
+86ahg5kxv,2.0.0 Global,in qa,2026-05-14,,,"[Localization] [French] ""NEW"" popup gets cut in two lines"
+86ahg5bt7,2.0.0 Global,in progress,2026-05-14,,,"[Campaign][Tutorial][UI] After upgrading the Castle to Level 4, the Campaign tutorial text gets stuc"
+86ahg58zc,2.0.0 Global,to-do,2026-05-14,,,[Localization] [All] Deal popups have unlocalized conent
+86ahg51xw,2.0.0 Global,to-do,2026-05-14,,,"[Localization] [All] ""Merge 5 Bonus"" and ""Max Level"" not localized even though translation is availa"
+86ahg4v67,2.0.0 Global,Closed,2026-05-14,2026-05-15,0,[Codex] Yellow progression arrow presented on max level items in the codex screen
+86ahg4mxg,2.0.0 Global,in qa,2026-05-14,,,[Wonders][UI/UX]  The arrow is under the upgrade button on Wonders.
+86ahg3equ,2.0.0 Global,in progress,2026-05-14,,,"[Localization] [Portuguese BR] [Turkish] ""What is your Age"", ""Data Consent Preferences"", ""Your Priva"
+86ahfzg2b,2.0.0 Global,in qa,2026-05-14,,,[Telemetry] [Purchase] inPurchaseFunnel events are missing context from errorCode and errorMessage.
+86ahfzafz,2.0.0 Global,in qa,2026-05-14,,,[Telemetry] [Purchase] inPurchaseFunnel events sometimes have errorCode value missing context.
+86ahfwhre,2.0.0 Global,in progress,2026-05-14,,,[Harvester] [Item] Only 1 kind of item is received from the tree harvesters
+86ahfwew7,2.0.0 Global,in qa,2026-05-14,,,[Triggered Deals][UI/UX] The borders have pixels at triggered deals.
+86ahfuemv,2.0.0 Global,Closed,2026-05-14,2026-05-18,4,[MBE]Boss and Wave events end automatically after you tap the start button.
+86ahfkvfv,2.0.0 Global,to-do,2026-05-14,,,[CleverTap] [Remote push notifications] Disabling marketing consent and tailored offers does not pre
+86ahfeh79,2.0.0 Global,triage,2026-05-13,,,[Harvester]No drop rates shown in the pop up window from the tree harvesters
+86ahfaacw,2.0.0 Global,Closed,2026-05-13,2026-05-19,6,[FTUE] Wave button missing during FTUE
+86ahen8mf,2.0.0 Global,code review,2026-05-12,,,[Progression][Migration] Charming Chambers obtained from Premium Lands are not counted toward progre
+86ahek02x,2.0.0 Global,Closed,2026-05-12,2026-05-19,7,[Debug]“ShowCustomespawnWindow” its not working
+86ahef7ar,2.0.0 Global,code review,2026-05-12,,,[Energy] Energy first free refil won't trigger as soon as player reaches 0 energy
+86ahef4rt,2.0.0 Global,Closed,2026-05-12,2026-05-19,6,[Tutorial] Castle Upgrade Tutorial Not Triggering
+86aheeydd,2.0.0 Global,Closed,2026-05-12,2026-05-19,7,[VFX] Castle doesn't have feedback when it's possible to upgrade it
+86aheekux,2.0.0 Global,Closed,2026-05-12,2026-05-14,2,[Grid Elements] Stones are still available on the Main Base
+86ahee63k,2.0.0 Global,to-do,2026-05-12,,,[UI/UX] Progress bar for the Season Pass doesn't seem like it reached the correct level
+86aheaxh2,2.0.0 Global,Closed,2026-05-12,2026-05-14,2,[Life bar][UI/UX]  The life bar progresses visually differently on Wonder Wishing Well.
+86aheaa0u,2.0.0 Global,Closed,2026-05-12,2026-05-13,0,"[UI/UX] In-game text has an inner outline that makes the text too ""bold"""
+86ahe3kwd,2.0.0 Global,Closed,2026-05-12,2026-05-12,0,[Error] Latest Dev Build 1758 and 1757 are not loading the Main Base
+86ahdvfng,2.0.0 Global,to-do,2026-05-11,,,SafeArea anchor adjustment causes HUD squeeze across all resolutions
+86ahdv1ju,2.0.0 Global,in qa,2026-05-11,,,"[UI/UX] [Haptics] When device-level haptics are disabled, some in-game haptics still trigger vibrati"
+86ahdnehx,2.0.0 Global,Closed,2026-05-11,2026-05-15,3,[UI/UX] Stone icon is displayed on the Castle's info bar as the resource to upgrade it
+86ahdmmdv,2.0.0 Global,to-do,2026-05-11,,,[Device Specific] [UI/UX] [Haptics] Galaxy A50 haptic feedback is not triggering in some stances
+86ahdk8jp,2.0.0 Global,to-do,2026-05-11,,,[UX/UI] Arrow to find Imprisioned Dragon appears cut off
+86ahdj5wk,2.0.0 Global,Closed,2026-05-11,2026-05-14,3,[Debug] Error when using NewPermQuickStart or NewPerm
+86ahdhw02,2.0.0 Global,to-do,2026-05-11,,,[UI/UX] [Haptics] Haptic feedback is not triggering in some stances
+86ahdd5x2,2.0.0 Global,to-do,2026-05-11,,,"[Edge Case] [Dragons] [Events] Having the events unlocked, a Dragon event scheduled before having it"
+86ahdczut,2.0.0 Global,in qa,2026-05-11,,,[Harvest] [Energy] Higher level harvesters are displaying the wrong Energy cost. Video.
+86ahctjur,2.0.0 Global,to-do,2026-05-08,,,featureEvaluation telemetry emits empty playerId despite valid context.playerId
+86ahcr06n,2.0.0 Global,Closed,2026-05-08,2026-05-13,4,[UX/UI] Multiple Low quality preview Icons above wonders
+86ahcqzp0,2.0.0 Global,Closed,2026-05-08,2026-05-20,11,"[UI][Performance] There is a delay between the tap, and the timer pop up appearing"
+86ahcqzg6,2.0.0 Global,Closed,2026-05-08,2026-05-19,10,[Timer ][UI/UX]  The timer overlaps on the information bar in some wonders.
+86ahcqxxq,2.0.0 Global,Closed,2026-05-08,2026-05-20,11,[UX/UI] Drop button disappear from the infobar after a Wonder is on cooldown
+86ahcqxmp,2.0.0 Global,Closed,2026-05-08,2026-05-14,5,[Wonders][UI/UX]  Low-quality assets are displayed on the upgrade screen for the wonders.
+86ahcqvy7,2.0.0 Global,Closed,2026-05-08,2026-05-14,5,[interstitials][UI]  Interstitials have a white square and extra items
+86ahcquf6,2.0.0 Global,Closed,2026-05-08,2026-05-15,6,"[Wonders] After upgrading a wonder, the level is downgraded."
+86ahcqu7z,2.0.0 Global,Closed,2026-05-08,2026-05-14,5,[UX/UI] Upgrading a Wonder displays incorrect image
+86ahcqt73,2.0.0 Global,Closed,2026-05-08,2026-05-19,10,"[Villagers] Multiple barks display ""ERROR"" text message"
+86ahcqenn,2.0.0 Global,to-do,2026-05-08,,,[Villagers] Delay hinders player to see villager's retreat running to their houses
+86ahcq0jg,2.0.0 Global,to-do,2026-05-08,,,[Dragons][UI/UX][Galaxy Z Fold 6] UI elements in the Dragons menu overlap with dragon models
+86ahcpy9k,2.0.0 Global,to-do,2026-05-08,,,[Villagers] Timer displays out of boxline when timer is 2 days or higher
+86ahcn4p5,2.0.0 Global,Closed,2026-05-08,2026-05-15,6,[Dragons] [OnePlus Pad] Model Rendering and UI issues on the Hero Detail screen
+86ahcn1fr,2.0.0 Global,to-do,2026-05-08,,,[Dragons] [Galaxy Tab S10+] Model Rendering and UI issues on the Hero Detail screen
+86ahcmvxe,2.0.0 Global,Closed,2026-05-08,2026-05-20,11,"[Dragons] [iPad Air 13"" M3] Model Rendering and UI issues on the Hero Detail screen"
+86ahcfmfd,2.0.0 Global,Closed,2026-05-08,2026-05-18,10,[UX/UI] [Item Drops] Emberforge Item Drop Assets Are Misaligned
+86ahcfjdm,2.0.0 Global,Closed,2026-05-08,2026-05-12,3,[UX/UI] All progress bars remain full after each tap 
+86ahcf0nx,2.0.0 Global,Closed,2026-05-08,2026-05-08,0,"[UI/UX ] [Waves] After completing a wave, the winning screen is duplicated."
+86ahccpk3,2.0.0 Global,Closed,2026-05-08,2026-05-12,4,[Quest][UI] Daily Quest bar UI is not filling when the player claims Quests
+86ahc7zeu,2.0.0 Global,Closed,2026-05-08,2026-05-12,4,[Castle][Grid][FTUE] It is not possible to upgrade the Castle due to no Stone appearing on the grid 
+86ahbnqwf,2.0.0 Global,Closed,2026-05-07,2026-05-15,8,[Debug] Extra debug wave speeds options are not working
+86ahbmgak,2.0.0 Global,Closed,2026-05-07,2026-05-11,4,[FTUE][Dragon] Dragon ability tutorial pop-up is not appearing
+86ahbmame,2.0.0 Global,Closed,2026-05-07,2026-05-15,8,[Item][Harvester] Completing Waves gives a different house merge material than harvesters and map it
+86ahba1b4,2.0.0 Global,to-do,2026-05-06,,,[Chat][Migration] A large empty space appears between the chat title and the messages after migratio
+86ahb8mhz,2.0.0 Global,Closed,2026-05-06,2026-05-07,0,[Items] Crate of Wood does not open when tapped first on Wave 11
+86ahb82x5,2.0.0 Global,Closed,2026-05-06,2026-05-07,0,[UX/UI] [MBE] Assets Are Misaligned On Event Results Screen
+86ahb7v2h,2.0.0 Global,to-do,2026-05-06,,,[UX/UI] [MBE] Time Clock Overlaps Text In Portal Description
+86ahb30gk,2.0.0 Global,to-do,2026-05-06,,,AdMon: client reports rewardTimeout for already-granted rewards
+86ahazwy8,2.0.0 Global,to-do,2026-05-06,,,"[Account][Migration] The warning pop-up (""You have been disconnected"") appears after migration from "
+86ahabnqe,2.0.0 Global,to-do,2026-05-05,,,[UX/UI] Enemies profile pictures options display cropped
+86aha848v,2.0.0 Global,to-do,2026-05-05,,,"MBE boss damage analytics overflows Int32, wraps to negative"
+86aha0gm9,2.0.0 Global,Closed,2026-05-05,2026-05-20,15,[LIVE] [Guilds] [UX/UI] Guild Avatars Are All Towers
+86ah9x4uk,2.0.0 Global,in qa,2026-05-05,,,Inbox reward icons are too small
+86ah9x4t2,2.0.0 Global,in qa,2026-05-05,,,Inbox claimed rewards checkmark obscures reward icon
+86ah9u0fa,2.0.0 Global,Closed,2026-05-05,2026-05-11,6,FTUE Stuck Issue with Excess Wood Planks
+86ah99x13,2.0.0 Global,to-do,2026-05-04,,,[Debug] NewPermQuickStart unlocks all chests' rewards on Campaign without having to complete the lev
+86ah8w467,2.0.0 Global,in qa,2026-05-04,,,Diamond Info Missing on Some Resolutions in Missing Item UI
+86ah8kyhg,2.0.0 Global,Closed,2026-05-04,2026-05-14,10,Missing VFX for Ascension in Prod TF 1.10.0
+86ah8kydv,2.0.0 Global,Closed,2026-05-04,2026-05-11,7,Missing Element in Summoning Circle
+86ah8kyak,2.0.0 Global,code review,2026-05-04,,,Missing Check Mark on Completed Fog Request
+86ah7pfk4,2.0.0 Global,Closed,2026-05-01,2026-05-15,14,Fix broken HarvestingEnergySnapshotStatsTests.ComputeStats_CountsPopulationHouse unit test
+86ah7f2bx,2.0.0 Global,to-do,2026-04-30,,,[Waves] Cannons can't shoot when the camera pans out of the map view
+86ah7c2uu,2.0.0 Global,to-do,2026-04-30,,,Gracefully handle client device out-of-storage failures
+86ah76pt9,2.0.0 Global,reopened,2026-04-30,,,"[AdMon] [Energy] The energy refill system (Daily Gem, AdMon) is not reset when the timer ends. - Vid"
+86ah74kae,2.0.0 Global,in progress,2026-04-30,,,[Chat] Cropped chat screen when the user opens the general tab
+86ah73zk5,2.0.0 Global,code review,2026-04-30,,,[UI/UX] [Energy] The Coffee icon appears in the “Get Energy” panel
+86ah6xfac,2.0.0 Global,to-do,2026-04-30,,,[Debug] Using SetWaveAndExplore doesn't work to unlock and play new levels on Campaign
+86ah6weqk,2.0.0 Global,Closed,2026-04-30,2026-05-11,11,[Shop] Shop closes after purchasing the first item on the daily shop and the daily shop resets
+86ah6w58m,2.0.0 Global,in qa,2026-04-30,,,[UI/UX] Red dot on both Chat and Mail icon to indicate rewards to claim
+86ah6gcca,2.0.0 Global,to-do,2026-04-29,,,[Rituals] Waves start too soon before the Victory pop-up disappears when playing in Auto-starts wave
+86ah6b668,2.0.0 Global,to-do,2026-04-29,,,[Debug] [MBE] Offset time tool does not send leaderboard rewards correctly.
+86ah6ae8y,2.0.0 Global,Closed,2026-04-29,2026-05-19,20,[Dragons] De sync projectile fire animations from Luna when attempting to shoot to dead enemies 
+86ah69kkc,2.0.0 Global,to-do,2026-04-29,,,"[MBE] ""Wave"" counter change to ""Highest Wave"" counter if an energy refill occurs in the middle of a "
+86ah5etpf,2.0.0 Global,to-do,2026-04-28,,,[Guilds][UI/UX] The counter does not update in real time when kicking out members
+86ah5bq3j,2.0.0 Global,to-do,2026-04-28,,,[TP][Wonders] Wonders can be harvested without having energy
+86ah52yua,2.0.0 Global,to-do,2026-04-28,,,[2nd Base Event ][Luna Season] The rewards red dot indicator is not triggering 
+86ah4nh90,2.0.0 Global,code review,2026-04-27,,,[2nd Base Event ] [Luna Season] Battle pass last reward is hard to scroll.
+86ah4m18b,2.0.0 Global,Closed,2026-04-27,2026-05-19,21,Dragon Ascension Shards Not Spent
+86ah4kpyu,2.0.0 Global,in progress,2026-04-27,,,[MBE] It's possible to play the event even after it already closed/completed
+86ah4k1cm,2.0.0 Global,Closed,2026-04-27,2026-05-15,17,[MBE] Items received duplicated when purchasing the event's offer
+86ah4hu40,2.0.0 Global,Closed,2026-04-27,2026-04-29,1,[VFX] Fog's missing in one part of the Main Base
+86ah4gtk3,2.0.0 Global,to-do,2026-04-27,,,[MBE] Timer Information on the Event Portal is different from the Info Bar's timer
+86ah4f3y6,2.0.0 Global,Closed,2026-04-27,2026-05-19,22,[Settings] [Offers] Disabling tailored offers doesn't prevent the player from receiving them. - Vide
+86ah4cduu,2.0.0 Global,code review,2026-04-27,,,[MBE] Banned users are still on the leaderboard ranking
+86ah2fgbg,2.0.0 Global,build pending,2026-04-23,,,[MBE] Purchase limit number not updating when purchasing 5 limit purchases offers at the shop
+86ah2ezw7,2.0.0 Global,Closed,2026-04-23,2026-05-07,14,[MBE] The checkmark icon is off-center when an MBE is completed on the Event Rewards screen.
+86ah2cxpt,2.0.0 Global,blocked,2026-04-23,,,[Achievements] Can't complete the achievements to purchase houses on the shop
+86ah209gp,2.0.0 Global,to-do,2026-04-23,,,[UI/Text] Text glyph artifacts — TMP font atlas padding insufficient
+86ah1md77,1.9.0,Closed,2026-04-22,2026-04-27,4,[MBE] Update leaderboard event text to communicate reward delivery timing
+86ah1bd9y,1.9.0,Closed,2026-04-22,2026-04-27,4,[MBE] Virtual altars are not working as they should on the wave MBE
+86ah163fa,2.0.0 Global,Closed,2026-04-22,2026-05-18,26,WaveRewardCycleBase Not Functioning for players over wave 10k
+86ah119bw,2.0.0 Global,Closed,2026-04-22,2026-05-08,16,Unlocking Tree Issue with Level Six Lights
+86ah0ud80,2.0.0 Global,Closed,2026-04-21,2026-05-05,14,[LIVE] [Guilds] [UX/UI] Guild Avatars Have Visual Errors
+86ah0the0,1.9.0,Closed,2026-04-21,2026-04-27,5,[MBE] Wave 52 can’t be started on the event Electric Barrage
+86ah058tc,2.0.0 Global,in progress,2026-04-20,,,[MBE] Event Leaderboard displays two different values for Highest Damage when finishing a Boss Battl
+86agzy9av,2.0.0 Global,in progress,2026-04-20,,,"[Chat] After a couple of messages, users can't scroll down to see newer messages in any chats"
+86agz05na,1.9.0,Closed,2026-04-17,2026-04-27,9,[FTUE] First FTUE steps stops triggering when closing the app and returning while a padlock is being
+86agywtmh,2.0.0 Global,Closed,2026-04-17,2026-05-11,23,[FTUE] Not possible to start Wave 1 due to a Mana requirement to collect Radiant Mana
+86agywc7p,1.9.0,Closed,2026-04-17,2026-04-27,9,[MBE] Wave events don't have the Battle Summary screen after a loss
+86agyv0x6,1.9.0,Closed,2026-04-17,2026-04-27,9,[1.8 ] [Migration] Main base grid elements do not fully migrate.
+86agyqm20,2.0.0 Global,to-do,2026-04-17,,,"Investigate ""Client sent NULL or empty PlatformId"" login error spike"
+86agyqg6z,1.9.0,Closed,2026-04-17,2026-04-27,9,[Text] WonderCoin-10 and WonderFood-10 have strings as name and description
+86agyqbqg,2.0.0 Global,in qa,2026-04-17,,,Gem positioning is off in Castle upgrade screen
+86agyfg5p,2.0.0 Global,Closed,2026-04-17,2026-05-12,25,"[Settings] [Legal] ""Confirm gem purchases"" toggle is not consistent. Video."
+86agxynyd,2.0.0 Global,in qa,2026-04-16,,,Missing GridElementStats entry for DragonHeroNeutral1 causes crash on dragon egg open
+86agxtyrm,2.0.0 Global,to-do,2026-04-16,,,[Growthbook] Split testing for Discord/FB targeting PH users is not working as expected
+86agxmx7f,1.9.0,Closed,2026-04-16,2026-04-27,11,[IAP] [AgeThreshold] Players under the age Threshold can buy IAP from MBE. - Video.
+86agxdug2,2.0.0 Global,Closed,2026-04-15,2026-04-30,14,[Towers][UI/UX] Skyshot towers don't have damage in their stats
+86agxb50c,2.0.0 Global,Closed,2026-04-15,2026-05-18,32,[UX/UI] Several items appear misaligned in info tooltip view 
+86agx4d3f,2.0.0 Global,to-do,2026-04-15,,,[Dragons] [Active Ability] Cinder Interrupts Active Ability With Basic Attack On Auto-Cast
+86agwx2e9,1.9.0,Closed,2026-04-15,2026-04-27,12,[Telemetry] [EventMilestone] The eventMilestone event 'action' parameter is never fired with the 'co
+86agwgkw0,1.9.0,Closed,2026-04-14,2026-04-27,12,[Store][Offers] Starter deals cannot be triggered
+86agwaxbz,1.9.0,Closed,2026-04-14,2026-04-27,12,[MBE] [Wave Event] Error at Wave 51 Prevents Further Wave Progression (Inferno Surge/Roots of Ruin)
+86agwa84y,1.9.0,Closed,2026-04-14,2026-04-27,12,[Telemetry] [Transactions] The parameters for the Transactions event are not displaying the correct 
+86agvpqr7,1.9.0,Closed,2026-04-13,2026-04-27,13,[MBE] Roots of Ruin second event offer displays with no text
+86agvpkmb,2.0.0 Global,reopened,2026-04-13,,,[MBE] Wave events victory screen shows the number of the next wave instead of current
+86agvnpmj,2.0.0 Global,Closed,2026-04-13,2026-05-12,28,[Events] [Mailbox] Unclaimed rewards are not sent to the mailbox at merge events.
+86agv7hru,1.9.0,Closed,2026-04-13,2026-04-27,13,[MBE] InvalidMainBaseEventOffer message when purchasing the Special Offer on Extreme Energy event
+86agv233f,2.0.0 Global,to-do,2026-04-13,,,GDPR consent banner shows after reconnect cycles in non-GDPR countries
+86agv1ck3,2.0.0 Global,Closed,2026-04-13,2026-04-27,14,Fix Edge Case With Daily Quests After Castle Upgrade in Version 1.8
+86agu23zk,1.8.0,Closed,2026-04-10,2026-04-27,16,[Telemetry] transactions event is being fired twice when the player claims the MBE reward. - Screens
+86agu0kem,1.8.0,Closed,2026-04-10,2026-04-27,16,[HUD] Gem widget is missing on HUD
+86agtzv9h,2.0.0 Global,to-do,2026-04-10,,,[MBE] Tapping on the pulsing locked event pass reward claims the free unlocked rewards
+86agtztzx,2.0.0 Global,to-do,2026-04-10,,,Exception Screen Copy Error Log button was without text
+86agtzr9k,1.9.0,Closed,2026-04-10,2026-04-27,16,[MBE][Leaderboard] Player missing their own ranking on leaderboard
+86agtyx1d,2.0.0 Global,in qa,2026-04-10,,,[Live] The Daily Quests progress breaks if the player have progress on the Quests before the Server 
+86agtyn8b,1.8.0,Closed,2026-04-10,2026-04-27,17,[MBE] Not possible to claim Milestone Rewards from LiveOps events
+86agtutkd,2.0.0 Global,to-do,2026-04-10,,,[MBE] Boss Total Damage tracker doesn't include poison damage
+86agtky1e,2.0.0 Global,Closed,2026-04-09,2026-05-14,34,Energy tooltip doesn't display owned amount correctly
+86agtkvz8,1.8.0,Closed,2026-04-09,2026-04-27,17,[ITEM][Migration]  Wooden box remains in the game after migration
+86agtkfyq,1.8.0,Closed,2026-04-09,2026-04-27,17,[Migration] Golden Quarry Bubble does not migrate from 1.7 to 1.8
+86agtj7mx,1.8.0,Closed,2026-04-09,2026-04-27,17,[MBE][Events] Game Breaks when starting a MBE event on a 2BE event
+86agthkzy,2.0.0 Global,Closed,2026-04-09,2026-05-11,31,[Live][Castle] “not enough limestone” message is displayed when upgrading your castle for the first 
+86agthgdk,2.0.0 Global,in qa,2026-04-09,,,[Luna Season] [2nd Base event] Mooonfall Destruction Icon has a small crop.
+86agtgm3r,1.9.0,Closed,2026-04-09,2026-04-27,17,[Luna Season] [2nd Base event] Omega Croaker has an excessive amount of HP.
+86agte4n0,1.9.0,Closed,2026-04-09,2026-04-27,17,[MBE] Not possible to scroll through the Leaderboard
+86agtctuv,1.9.0,Closed,2026-04-09,2026-04-27,17,[Luna Season] [2nd Base event] Icons have been slightly cropped in the Event pass rewards.
+86agtcpvu,2.0.0 Global,reopened,2026-04-09,,,Tutorial box covers wave button
+86agtc4ee,1.9.0,Closed,2026-04-09,2026-04-27,17,[MBE] No leaderboard rewards in some Leaderboard events
+86agtc0hz,1.9.0,Closed,2026-04-09,2026-04-27,17,[Luna Season] [2nd Base event] Padlock animation loops at the Moonfall destruction event.
+86agtbtuv,1.9.0,Closed,2026-04-09,2026-04-29,20,[MBE] Player doesn't receive the rewards from Leaderboard events right after the event ends
+86agtbdec,1.8.0,Closed,2026-04-09,2026-04-27,17,[Migration] Dragons being deleted upon swapping after Migration from 1.7 to 1.8
+86agtam2j,1.8.0,Closed,2026-04-09,2026-04-27,17,[Migration] Unable to Swap Dragons after Migration inaccuracies from 1.7 to 1.8
+86agt50du,2.0.0 Global,reopened,2026-04-09,,,[Interstitials] Player can't directly purchase from the Interstitial if reconnecting while the modal
+86agruycm,2.0.0 Global,Closed,2026-04-08,2026-05-19,40,"[Dragons][Migration] After the migration, the dragons appear at level 1."
+86agrtx9d,1.9.0,Closed,2026-04-08,2026-04-27,18,[Luna Season] [2nd Base event] Dreadbark spawners at Luna maps.
+86agrtm9x,1.9.0,Closed,2026-04-08,2026-04-27,18,[Luna Season] [2nd Base event] The season pass value is not adding to the UI.
+86agrt4ay,1.9.0,Closed,2026-04-08,2026-04-27,18,"[Luna Season] [2nd Base event] After wave 50, cannot play more waves."
+86agrr57t,2.0.0 Global,build pending,2026-04-08,,,[Dragons][Event][Ascension] Ascending a dragon during an event will not take actual effect.
+86agrr3hn,2.0.0 Global,Closed,2026-04-08,2026-05-20,41,[Dragons] Cairn only does 2 of damage per hit on his special ability
+86agrqe85,2.0.0 Global,Closed,2026-04-08,2026-05-20,41,[Dragons] Cairn doesn't do any damage aside from its special ability
+86agrptam,1.9.0,Closed,2026-04-08,2026-04-27,18,[Luna Season] [2nd Base event] Silver shop is not active.
+86agrfubf,1.8.0,Closed,2026-04-08,2026-04-27,18,[Store][Offers] Castle offers interstitial appear after buying the offer
+86agr8n76,2.0.0 Global,to-do,2026-04-08,,,MainBaseEvents stat sync shows false error despite successful completion
+86agqrvau,1.8.0,Closed,2026-04-07,2026-04-27,19,Energy refill tutorial not triggering for bell harvester
+86agqkdj9,1.9.0,Closed,2026-04-07,2026-04-27,19,[Grid Elements] List of grid elements that cost energy and are not showing contents.
+86agqje29,2.0.0 Global,to-do,2026-04-07,,,[Performance] Sometimes the performance drops and the vfx for opening chests doesn't trigger when th
+86agq18kf,1.8.0,Closed,2026-04-07,2026-04-27,20,[Telemetry] [Interstitials] New MBEs are not triggering the interstitialAction events when the inter
+86agpkx09,1.8.0,Closed,2026-04-06,2026-04-27,20,[UI/UX] Scraps have the wrong icon on the Info Bar
+86agpkt69,2.0.0 Global,to-do,2026-04-06,,,[Info] Info bar with the castle info won't display if the player taps on a bubble above it
+86agpkedr,1.8.0,Closed,2026-04-06,2026-04-27,20,[Codex] Invisible Level Grid Elements displayed on the Codex
+86agpk46j,2.0.0 Global,Closed,2026-04-06,2026-05-20,44,[UI/UX] Info button displays items with 0% drop rates
+86agpjuyh,1.8.0,Closed,2026-04-06,2026-04-27,20,"[UI/UX] ""Drops"" is in a white text in the Info Bar and the Codex has a gray background"
+86agpjg3t,2.0.0 Global,to-do,2026-04-06,,,[MBE] Rewards claimed are not stacked on the claim rewards screen
+86agphp0m,1.8.0,Closed,2026-04-06,2026-04-27,20,[UI/UX][Territory Progression] Requirement for Castle Level 3 on Wave34 is an Enemy icon
+86agpaewz,1.8.0,Closed,2026-04-06,2026-04-27,20,[MBE] [UX/UI] There Is String Text In Event Names And Event Deal Section
+86agpabr3,1.8.0,Closed,2026-04-06,2026-04-27,20,[MBE] [UX/UI] Timer Disappears From Events When Reaching 0s
+86agnd065,1.9.0,Closed,2026-04-03,2026-04-27,23,[MBE][UI/UX] UI elements placement not adjusted in the Boss Event Leaderboard
+86agnczzp,1.8.0,Closed,2026-04-03,2026-04-27,23,[MBE] Leaderboard is missing in Boss events
+86agncy8g,1.8.0,Closed,2026-04-03,2026-04-27,23,[MBE] Undefined reward in boss event deals
+86agncfg0,1.8.0,Closed,2026-04-03,2026-04-27,23,[MBE] Leaderboard is missing in the Hydro Havoc Event
+86agnbvq8,1.8.0,Closed,2026-04-03,2026-04-27,23,[MBE] Leaderboard is missing in the Roots of Ruin Event
+86agnbg5w,1.8.0,Closed,2026-04-03,2026-04-27,23,[MBE] Leaderboard is missing in the Inferno Surge Event
+86agn8vtj,1.8.0,Closed,2026-04-03,2026-04-27,23,[MBE] [UX/UI] Error Item Given As A Reward For Event Deals
+86agn8r9q,2.0.0 Global,to-do,2026-04-03,,,[MBE] [UX/UI] [Leaderboard] Time desync upon unlocking the energy events
+86agn8hh8,1.8.0,Closed,2026-04-03,2026-04-27,23,[MBE] [UX/UI] [Leaderboard] Energy Exemplified & Energy Exposition events Leaderboards is not accura
+86agn7y18,1.9.0,Closed,2026-04-03,2026-04-27,23,[Cinder] [Damage] Cinder Damages do not increase with ascension.
+86agn7rpp,2.0.0 Global,to-do,2026-04-03,,,[MBE] Cinder's Blaze event play button is missing
+86agn7j1u,1.8.0,Closed,2026-04-03,2026-04-27,23,[Cinder] [VFX] The Ascension preview screen has a solid shadow.
+86agn763y,1.8.0,Closed,2026-04-03,2026-04-27,23,[MBE] [LiveOps] LiveOps Event Cannot Be Started And Produces Error Message
+86agn6p5v,2.0.0 Global,Closed,2026-04-03,2026-05-08,35,[MBE] Cinder's Blaze Event is not triggering
+86agn0zb8,1.8.0,Closed,2026-04-02,2026-04-27,24,[Territory Progression] Unlocking Wonders or Cages too quick may throw an error. Screenshot.
+86agn0kvk,1.8.0,Closed,2026-04-02,2026-04-27,24,[Telemetry] [eventReward] One event is fired for each reward claimed instead of an aggregate of all 
+86agn00vw,1.8.0,Closed,2026-04-02,2026-04-27,24,"[Telemetry] [matchBase] The portal IDs in portalPositions are all ""0"", so it's impossible to identif"
+86agn007q,1.8.0,Closed,2026-04-02,2026-04-27,24,[Telemetry] [inAppPurchase] Second Base Events bundle contents parameter has inaccurate values.
+86agn001g,1.8.0,Closed,2026-04-02,2026-04-27,24,"[Telemetry] [inAppPurchase] MBE bundle contents parameter is being sent as ""0""."
+86agmzzpu,2.0.0 Global,reopened,2026-04-02,,,"[Telemetry] [tutorialStep] The sequence parameter shoudn't get the ""CityShop"" value."
+86agmz2gz,1.8.0,Closed,2026-04-02,2026-04-27,24,[Energy] Some non-migrated Houses are Generating Energy in 1.8 builds.
+86agmyw60,2.0.0 Global,Closed,2026-04-02,2026-05-14,41,[MBE] [UX/UI] [Rewards] Players can't see the rewards due the leaderboard displays rapidly after ope
+86agmyv7g,1.8.0,Closed,2026-04-02,2026-04-27,24,[Cinder] [VFX] Fire VFX is missing at special ability.
+86agmympm,2.0.0 Global,to-do,2026-04-02,,,[Debug] [Cinder] Infinite Cynder shards bug.
+86agmx80w,1.8.0,Closed,2026-04-02,2026-04-27,24,[MBE][Offers] Cinder's Offer has an unknown item and it's not possible to purchase it
+86agmtxyk,1.8.0,Closed,2026-04-02,2026-04-27,24,"[Territory Progression][Rituals] The ""Wave completed"" text shows the number of the next Wave instead"
+86agmrntt,1.8.0,Closed,2026-04-02,2026-04-27,24,[MBE] VFX for Merges from different Grid Elements of the Event will trigger
+86agmq4pk,1.8.0,Closed,2026-04-02,2026-04-27,24,[UI] The reward screen shows that the player has 0 “Season Pass points” after purchasing the “season
+86agmq2ey,1.8.0,Closed,2026-04-02,2026-04-27,24,[Store] Store sections are misplaced. Screenshot.
+86agmnzuk,2.0.0 Global,to-do,2026-04-02,,,Fix Dragon Scale and Position on Hero Detail Page
+86agmmatc,1.8.0,Closed,2026-04-02,2026-04-27,24,Misc b324 1.8 playtest urgent fixes
+86agmh3fy,1.8.0,Closed,2026-04-02,2026-04-27,25,[UI/UX] Arcane Lantern tooltip and info description is not clear about the item's functionality
+86agmgxn1,1.8.0,Closed,2026-04-02,2026-04-27,25,[Territory Progression][FTUE Textbox] A part of Piper's hand appears without fade in the tutorial te
+86agmgr6d,1.8.0,Closed,2026-04-02,2026-04-27,25,[Events][2BE] Possible to close the Event Deal by tapping outside of the modal
+86agmf8fz,2.0.0 Global,to-do,2026-04-02,,,[MBE] Cinder's Blaze Wave event doesn't have a Play button or timer
+86agme3ex,1.8.0,Closed,2026-04-02,2026-04-27,25,[Events][MBE] Two Events icon are displayed on the HUD and the specific icon for the Second Base eve
+86agmd6wj,1.8.0,Closed,2026-04-02,2026-04-27,25,VFX and Checkmark for Tutorial Not Displaying Correctly (Wave 5)
+86agm3j9k,2.0.0 Global,Closed,2026-04-01,2026-05-14,42,[MBE][Events] Reduce reward icons' size on Events screen for iPad users
+86agm33z7,2.0.0 Global,Closed,2026-04-01,2026-05-11,39,[MBE] [Rewards] Event rewards can be claimed multiple times.
+86agm2q03,1.8.0,Closed,2026-04-01,2026-04-27,25,[MBE] Event offer missing in Boss event
+86agm2fy3,1.8.0,Closed,2026-04-01,2026-04-27,25,[Server Deploy 1.7.1 -> 1.8] Some daily quests rewards appear as always claimable. Video.
+86agm297d,1.8.0,Closed,2026-04-01,2026-04-27,25,"[Server Deploy 1.7.1 -> 1.8] Some milestones can't be claimed anymore, while others can. Video."
+86agm1pnk,1.8.0,Closed,2026-04-01,2026-04-27,25,[Server Deploy 1.7.1 -> 1.8] Gem premium lands are not purchasable anymore after an certain point. V
+86agm1gex,1.8.0,Closed,2026-04-01,2026-04-27,25,"[Server Deploy 1.7.1 -> 1.8] Cinder is unlocked after a couple eggs as ""???"". Video."
+86agm1apz,1.8.0,Closed,2026-04-01,2026-04-27,25,[Server Deploy 1.7.1 -> 1.8] Ascending Dragons sometimes throw an error. Video.
+86agm08x8,1.8.0,Closed,2026-04-01,2026-04-27,25,[MBE][Exploit] Player is able to get points on event by doing and undoing merges
+86agkxwmu,1.9.0,Closed,2026-04-01,2026-04-27,25,[MBE] Boss event breaks when dealing very high damage
+86agkr94u,1.8.0,Closed,2026-04-01,2026-04-27,25,[MBE] Game Hardlocks When Merge Event Is Completed Twice
+86agkr13c,1.8.0,Closed,2026-04-01,2026-04-27,25,[MBE] Boss Hit Points Using Placeholder Art
+86agkr130,1.8.0,Closed,2026-04-01,2026-04-27,25,[MBE] Plant Boss Spawns Behind Boss Portal
+86agkr12n,1.8.0,Closed,2026-04-01,2026-04-27,25,[MBE] Plant Boss Size Too Large During Boss Battle
+86agkpzfv,2.0.0 Global,Closed,2026-04-01,2026-05-11,40,[MBE] [Damage Bonus] Damage Bonus is not showing.
+86agk4j81,1.8.0,Closed,2026-03-31,2026-04-27,26,[MBE] [IAP] Event Deal cannot be purchased after event ends.
+86agk3qvg,1.8.0,Closed,2026-03-31,2026-04-27,26,[MBE] [UX/UI] [Event Pass] Event Pass Cannot Be Bought After Completing Merging Event
+86agk2z59,1.8.0,Closed,2026-03-31,2026-04-27,26,"[Account][Migration] After migration, the player’s wave increases from 63 to 163."
+86agk2xe7,2.0.0 Global,Closed,2026-03-31,2026-05-13,42,"Fix when multiple IGT STPs, one would obviate the other."
+86agjxvbu,2.0.0 Global,Closed,2026-03-31,2026-05-18,48,"[Migration] Diamond chests from Premium lands 5, 6, 7, 8, and 9 display the icon too large.  - Scree"
+86agjwcnz,1.8.0,Closed,2026-03-31,2026-04-27,26,[MBE] [UX/UI] [Leaderboard] Leaderboard Layout Is Missing For Merge Events
+86agjvm1d,1.8.0,Closed,2026-03-31,2026-04-27,26,[MBE][Events] Player softlock event screen when tapping the Event Offer purchase CTA
+86agjtu9v,1.8.0,Closed,2026-03-31,2026-04-27,26,"[MBE] Boss Battle Button Incorrectly Displays ""Wave 1"""
+86agjttfm,1.8.0,Closed,2026-03-31,2026-04-27,26,Fix Incorrect Damage Displayed as Wave Number in Boss Battle Victory
+86agjryr2,1.8.0,Closed,2026-03-31,2026-04-27,26,[MBE][Events] Event Rules container isn't showing full text
+86agjqrd6,1.8.0,Closed,2026-03-31,2026-04-27,26,[MBE] Show Timer Only for MBE Offers With Active Schedule
+86agjm0em,1.8.0,Closed,2026-03-31,2026-04-27,26,[Events] Progress Bar is not filled up for Completed Milestone events
+86agjkecr,1.8.0,Closed,2026-03-31,2026-04-27,26,[Grid Element] Chests are not working
+86agjk6yc,1.8.0,Closed,2026-03-31,2026-04-27,26,[Events] Some event interstitials have no text information
+86agjjbr7,1.8.0,Closed,2026-03-31,2026-04-27,27,[MBE] Multiple Main Base events are available since the beginning
+86agjft06,1.8.0,Closed,2026-03-31,2026-04-27,27,[Migration] Merging sometimes causes a crash after migration. - Video.
+86agjeam4,1.8.0,Closed,2026-03-31,2026-04-27,27,[Migration] There are some infinite/empty crates after migration. - Video.
+86aghzhzy,1.8.0,Closed,2026-03-30,2026-04-27,27,[2BE][Events] Player's can't access Second Base Events
+86aghzd60,2.0.0 Global,Closed,2026-03-30,2026-05-09,39,[FTUE][Padlock][Under investigation]  Padlock is soft block even with requirements are complete.
+86aghv2ra,1.8.0,Closed,2026-03-30,2026-04-27,27,[MBE] Play Button Remains Active on Completed Wave Event
+86aghuz0f,1.8.0,Closed,2026-03-30,2026-04-27,27,[FTUE] [Merge] Can´t use gems to merge items and access tabs.
+86aghtgeu,2.0.0 Global,to-do,2026-03-30,,,[MBE] [Event] MBE screen opens after losing a wave.
+86aght5tp,1.8.0,Closed,2026-03-30,2026-04-27,27,[Migration] Some bubbled content does not work after migrating from 1.7.1 to 1.8. - Video.
+86aghnfjt,1.8.0,Closed,2026-03-30,2026-04-27,27,[Waves][UI] Defeat and Summary screens are not available in game upon defeat
+86aghj8kz,1.8.0,Closed,2026-03-30,2026-04-27,27,[Territory Progression] Fog curiosities close to the grid cover the grid elements. Screenshot.
+86aghf6ct,1.8.0,Closed,2026-03-30,2026-04-27,28,[Dragons] It's not possible to ascend Dragons on the 1.7.1 Stage. - Video.
+86aggktua,1.8.0,Closed,2026-03-27,2026-04-27,30,[MBE] [UX/UI] Leaderboard and Reward Contains Missing Headers
+86aggktu6,1.8.0,Closed,2026-03-27,2026-04-27,30,Wave button UI has the wrong color during Wave Events
+86aggktu3,1.8.0,Closed,2026-03-27,2026-04-27,30,Missing Fog Coverage in Areas Reachable by Camera Panning
+86aggktty,1.8.0,Closed,2026-03-27,2026-04-27,30,[MBE] Damage not updating during Boss Fight
+86aggkttw,1.9.0,Closed,2026-03-27,2026-04-27,30,[MBE] Battle summary screen does not show Total Damage Dealt
+86aggkttu,1.8.0,Closed,2026-03-27,2026-04-27,30,[MBE] Milestone Progress Bar not showing up on Event Progress screen
+86aggkttt,2.0.0 Global,Closed,2026-03-27,2026-05-20,53,Vortex VFX surrounding unrevealed curiosities should be darkened like the fog in Main Base Event Wav
+86aggkpdf,2.0.0 Global,code review,2026-03-27,,,[Dragons] [UX/UI] Ascension Level Does Not Update When Ascending
+86aggknrz,1.8.0,Closed,2026-03-27,2026-04-27,30,[MBE] [Grid Elements] [Harvester] Player Gets Points By Harvesting Items Above Lv 1 In Merging Event
+86aggkmpu,1.8.0,Closed,2026-03-27,2026-04-27,30,[MBE] [Boss] Players Can Kill The Boss In MBE
+86aggkh69,2.0.0 Global,Closed,2026-03-27,2026-05-12,45,[Events] [UI/UX] Brown line on the Events Pass.
+86aggkf2j,1.8.0,Closed,2026-03-27,2026-04-27,30,[Events] [UI/UX] Events banners are duplicated.
+86aggka8h,1.8.0,Closed,2026-03-27,2026-04-27,30,[MBE][UI/UX] Events are missing Information
+86aggk9v4,2.0.0 Global,Closed,2026-03-27,2026-05-06,39,[Feedback] [Events] Background opacity makes it difficult to read at the Merge event.
+86aggk86w,2.0.0 Global,Closed,2026-03-27,2026-05-12,45,[MBE][Events][UI/UX] The event energy counter shows 0 energy before getting the reward
+86aggjrzj,2.0.0 Global,to-do,2026-03-27,,,[MBE][Events][Animation] Animations are missing when collecting currency while in a wave event
+86aggjpn8,1.8.0,Closed,2026-03-27,2026-04-27,30,[MBE][Events][Energy] Energy Rewards don’t grant energy after claiming it
+86aggjpjz,1.8.0,Closed,2026-03-27,2026-04-27,30,Event Offer Art showing double background
+86agghzt9,2.0.0 Global,Closed,2026-03-27,2026-05-11,44,[Icons] [Profile] Background color for Icons is not masked.
+86agghe3v,1.8.0,Closed,2026-03-27,2026-04-27,30,"[Events][UI/UX] At the purchase screen, Event has the wrong name - Twilight Chimes/Cannon blast inst"
+86aggb60t,1.8.0,Closed,2026-03-27,2026-04-27,30,[MBE] Wave 3 for the Event Wave Inferno Surge is giving an error
+86agfee6r,1.8.0,Closed,2026-03-26,2026-04-27,31,"[SignalR] ""Connection issue"" screen loops after disconnecting/reconnecting the device's Wi-Fi."
+86agf6bt9,1.8.0,Closed,2026-03-26,2026-04-27,32,[MBE][Events] Back button doesn't work on the event's details page
+86agf4zer,1.8.0,Closed,2026-03-26,2026-04-27,32,[UI/UX] The Dragon shard text box displays properly only two digits in the ascension screen. - Scree
+86agf43jt,2.0.0 Global,Closed,2026-03-26,2026-05-08,43,[Progression] The Castle requirement icon for progression displays the text unaligned in the box. - 
+86agf3z8p,2.0.0 Global,Closed,2026-03-26,2026-05-14,49,[UI/UX] The Gem's icon is displayed unaligned in the Castle upgrade screen. - Screenshot.
+86agev6jj,1.8.0,Closed,2026-03-25,2026-04-27,32,[Icons] [Profile] The game crashes when tapping the Profile Icon.
+86aget4fj,1.8.0,Closed,2026-03-25,2026-04-27,32,[Food][Dragons] Food can´t be used to level up the dragons.
+86ageruyp,1.8.0,Closed,2026-03-25,2026-04-27,32,[Wave] [Padlock] Padlock loop animation does not unlock the new section.
+86agembtw,1.8.0,Closed,2026-03-25,2026-04-27,32,[Premium lands] Premium lands cannot be purchased on version 1.7.1
+86ageek41,1.8.0,Closed,2026-03-25,2026-04-27,32,[FTUE] [Dragons] Visuals issues at ascending a dragon.
+86agedp8a,1.8.0,Closed,2026-03-25,2026-04-27,32,[Territory Progression] It's possible to advance through locked waves using the requirement modal UI
+86agec58u,1.8.0,Closed,2026-03-25,2026-04-27,32,[Debug] NewPermQuickStart is broken on 1.8. Video.
+86agebwf2,1.8.0,Closed,2026-03-25,2026-04-27,32,[Grid Elements] Harversters display the Energy Cost as 0 when the player has no energy left. Video.
+86agebu5c,1.8.0,Closed,2026-03-25,2026-04-27,33,[Grid Elements] Higher level Harversters display the Energy Cost as 1 even though harvesting costs m
+86age7vh8,1.8.0,Closed,2026-03-25,2026-04-27,33,"[Error][Live] ""An error occurred and has been reported"" message displays every time the player compl"
+86age3qmv,1.8.0,Closed,2026-03-25,2026-04-27,33,Game Data Loading Error 302
+86agdzhpy,1.8.0,Closed,2026-03-24,2026-04-27,33,"[Account][Migration] The map is inaccessible, preventing any interaction or progression"
+86agdyrf2,1.8.0,Closed,2026-03-24,2026-04-27,33,[MBE] Buttons don´t trigger on events menu
+86agdw7xv,1.8.0,Closed,2026-03-24,2026-04-27,33,[MBE] Play button missing on merge event
+86agdt6b3,1.8.0,Closed,2026-03-24,2026-04-27,33,[Dragons] It's not possible to upgrade or ascend the Dragon with the food (Food is not collectable).
+86agdt1kg,1.8.0,Closed,2026-03-24,2026-04-27,33,[Rituals] It's possible to automatically win infinite waves if the player starts from the padlock. -
+86agdq8jp,1.8.0,Closed,2026-03-24,2026-04-27,33,[UI][Art] Hammer art is not present on the content screen of the construction site.
+86agdpu7d,1.8.0,Closed,2026-03-24,2026-04-27,33,[Progression] Find button on the everbloom redirect to the incorrect location
+86agd5azm,1.8.0,Closed,2026-03-23,2026-04-27,34,Fix Boss Battle Wave Progression Bug in Spire
+86agcy0fe,1.8.0,Closed,2026-03-23,2026-04-27,34,[MBE] Automatic win in Wave_01_Fire event
+86agbh6q4,1.8.0,Closed,2026-03-20,2026-04-27,37,[MBE] Merging with an Automators doesn't count for Lifecycle_008_MergeBell
+86agbh6b1,1.8.0,Closed,2026-03-20,2026-04-27,37,"[Territory Progression] Tapping on ""find"" button for a harvester level 3 territory requisite, the ga"
+86agbgh8r,1.8.0,Closed,2026-03-20,2026-04-27,37,[MBE] BOSS_01_WATER Event enemies don´t spawn out of BlighRift
+86agbcqqu,1.8.0,Closed,2026-03-20,2026-04-27,37,"[Territory Progression] ""Skip Story"" text overlaps Spellbook icon."
+86agbce30,1.8.0,Closed,2026-03-20,2026-04-27,37,[Territory Progression] Player can unlock new areas by merging requested items and undoing them
+86agba0p5,1.8.0,Closed,2026-03-20,2026-04-27,37,[MBE] Progress bar for event shows a black bar when player progress on events
+86agb4gx6,2.0.0 Global,Closed,2026-03-20,2026-05-14,55,[Territory Progression] Players can't skip tutorial beginning dialog by tapping on screen
+86aga8hqd,1.8.0,Closed,2026-03-19,2026-04-27,38,[Store] [Runes] Rune tab appears before meeting the requirements
+86ag6z0mw,2.0.0 Global,to-do,2026-03-16,,,[Debug] The grid element creation debug UI can't handle more than 24 item levels. Video.
+86ag5hv0e,1.8.0,Closed,2026-03-13,2026-04-27,44,[Territory Progression] None of the Wonders are being displayed on latest. Screenshot.
+86ag4q4r8,1.8.0,Closed,2026-03-12,2026-04-27,45,[Territory Progression] Crates that require energy don't display the energy UI. Video.
+86ag4kn63,1.8.0,Closed,2026-03-12,2026-04-27,45,[UI/UX] [Dragons] Ascension preview screen is duplicated.
+86ag4hbf9,1.8.0,Closed,2026-03-12,2026-04-27,46,Fix leaking file descriptors in Unity Editor
+86ag42bdy,2.0.0 Global,to-do,2026-03-11,,,[Dragons][SFX] Cyclone's ability SFX continues after the skill effect has ended.
+86ag3ftkd,1.8.0,Closed,2026-03-11,2026-04-27,47,"[FTUE][Block] Bell Tower text appear but no Bell Tower during the tutorial, blocking FTUE"
+86ag2edfa,1.8.0,Closed,2026-03-10,2026-04-27,47,[Territory Expansion] The Requirements UI is broken and missing information. Screenshot.
+86ag2cjgv,2.0.0 Global,Closed,2026-03-10,2026-05-20,71,[Dragons] Luna's new VFX sometimes doesn't trigger on Campaign
+86ag1wwrc,2.0.0 Global,Closed,2026-03-09,2026-05-13,64,[Live][Icons] Player profile's Icons edges are pixeled.
+86ag1g9e6,2.0.0 Global,in qa,2026-03-09,,,[UI][Grid] UI offsets/centering/sizing issues
+86ag1dyt7,1.8.0,Closed,2026-03-09,2026-04-27,48,[Territory Expansion] Territory/Uncovered Fog Lockers often do not change their state to complete wh
+86afzkzxu,2.0.0 Global,Closed,2026-03-06,2026-05-19,73,Spire Backend Error: Shard With ID Not Found
+86afzanyg,1.8.0,Closed,2026-03-06,2026-04-27,52,[Territory Expansion] [Telemetry] Currently the mainBaseBalance parameter from the spire_sessionStar
+86afvuxqn,1.8.0,Closed,2026-03-02,2026-04-27,55,"[Territory Expansion] Bell Tower Harvesters don't have the ""Tap""/""Energy Cost"" UX. Screenshot"
+86aftmq1c,2.0.0 Global,to-do,2026-02-27,,,[Tech] Spire does not handle devices with no storage space well.
+86aftf08k,1.8.0,Closed,2026-02-27,2026-04-27,58,"[Territory Progression] Sometimes Wonders' assets disappear and only the ""hole"" in the fog is left. "
+86afte2dx,1.8.0,Closed,2026-02-27,2026-04-27,58,[Shop] Tokens are displayed on the Shop
+86afryrba,1.8.0,Closed,2026-02-26,2026-04-27,59,[Shop] [Deals] error pops up is shown after attempting to purchase a feature deal
+86afru3rh,1.8.0,Closed,2026-02-26,2026-04-27,59,[Spellbook] Wrong text showing in Fernhollow Castle's description in spellbook
+86afqdk64,2.0.0 Global,Closed,2026-02-25,2026-05-08,72,[Shop] Triggered Deals are not displayed on the Shop and error pop-up is constantly displayed
+86afqdfmh,1.8.0,Closed,2026-02-25,2026-04-27,60,[UI/UX] Event Elixir icon displays on top of the screen when the player taps on the wave padlock. - 
+86afpeezn,1.9.0,Closed,2026-02-24,2026-04-27,61,"[GPG Achievements] Couldn't trigger the Achievement ""Lumberjack - Harvest from a Blossoming Ash Tree"
+86afpe82j,1.9.0,Closed,2026-02-24,2026-04-27,61,[GPG Achievements] Achievements progress is not reflected on percentage
+86afpdyf7,1.9.0,Closed,2026-02-24,2026-04-29,64,[Achievements] Achievements give 0XP on Google Play Games
+86afp498t,1.8.0,Closed,2026-02-24,2026-04-27,62,"[Energy] Replenish energy through the ""Get Energy"" menu does not restore any energy"
+86afky9w6,2.0.0 Global,Closed,2026-02-20,2026-05-08,76,[Localization] [All] Time in Quests uses EN format instead of localized ones
+86afky8p9,2.0.0 Global,Closed,2026-02-20,2026-05-08,76,[Localization] [All] Time in shop uses EN format instead of localized ones
+86afky2eu,2.0.0 Global,to-do,2026-02-20,,,"[Localization] [All] ToS, FC and PP links are not localized"
+86afky0ja,2.0.0 Global,to-do,2026-02-20,,,[Localization] [All] Fortis Game Support website is not localized
+86afkxyyz,2.0.0 Global,in qa,2026-02-20,,,[Localization] [All] Untranslated text in Runes menu
+86afkvm79,2.0.0 Global,blocked,2026-02-20,,,[Localization] [All] Untranslated text in Runes menu
+86afkvcbd,2.0.0 Global,build pending,2026-02-20,,,"[Localization] [All] Untranslated Text ""VICTORY"" (Wave)"
+86afkuzv2,2.0.0 Global,in qa,2026-02-20,,,[Localization] [All] Unable to read text due to font color
+86afkemgh,2.0.0 Global,in qa,2026-02-20,,,Telemetry - matchCampaign tower parameter showing hidden enums
+86afjn20e,2.0.0 Global,Closed,2026-02-19,2026-05-14,84,[Localization] [ALL] Duplicated string for discovering Dragons
+86afh4r3x,1.8.0,Closed,2026-02-18,2026-04-27,67,[Accounts] [iOS] iOS account is blocked after being added to the offers segment amber.qa
+86afh3uwm,2.0.0 Global,Closed,2026-02-18,2026-05-11,82,[UX/UI] Assets From Daily Quests UI Is Clipping To The Milestone Tab
+86afgc8zv,2.0.0 Global,Closed,2026-02-17,2026-05-12,83,[UX/UI] [Energy] Generated Energy Is Shown As Rounded Up In UI
+86afcjaah,1.8.0,Closed,2026-02-13,2026-04-27,73,[Forge Offers] Only Lvl 1 Runes are selectable in Forge
+86afbk9vk,2.0.0 Global,Closed,2026-02-12,2026-04-27,73,[Premium Lands] Premium Land Tiles purchased using gems have their lockers with the wrong offset (th
+86afb6znb,2.0.0 Global,to-do,2026-02-12,,,"[Investigate] Some actions in-game trigger a fatal error: ""Mesh can not have more than 65000 vertice"
+86afaqgu3,1.7.0,Closed,2026-02-11,2026-04-27,74,"[Update] [Migration] After Migrating to 1.7.0, all new houses become hearths after reopening the app"
+86afajeab,1.8.0,Closed,2026-02-11,2026-04-27,74,[UI/UX] [Energy] The Energy refill button sometimes shows as 'Free' - only text
+86afa46pe,1.8.0,Closed,2026-02-11,2026-04-27,75,Add Dual Stats Support to Wave Rewards for Future Flexibility
+86af990de,1.8.0,Closed,2026-02-10,2026-04-27,75,[Premium Lands] Hearths are not displayed on the Fog view of Premium Lands (before they are purchase
+86af8ubn5,1.8.0,Closed,2026-02-10,2026-04-27,76,Asset bundle download telemetry records cache hits instead of actual downloads
+86af8r4pv,1.8.0,Closed,2026-02-10,2026-04-27,76,[Visual][UI/UX] Tap Harvest icon displayed on the Ascension Dragon Preview screen
+86af7vt86,1.8.0,Closed,2026-02-09,2026-04-27,76,"[Event]Flooding of ""So close"" messages. Blocks debug and all else."
+86af5u5tt,2.0.0 Global,Closed,2026-02-06,2026-05-11,93,[UI/UX] [Spellbook] Misaligned Icons at Spellbook.
+86af5bp62,1.8.0,Closed,2026-02-06,2026-04-27,80,[Shop] Bubbled grid elements purchased via Shop have their counter displayed behind the bubble
+86af4ev15,2.0.0 Global,to-do,2026-02-05,,,[Grid Elements] [Harvesters] Catapult Harvesters Base Are Misaligned
+86af4e3b2,2.0.0 Global,to-do,2026-02-05,,,[Campaign] [Dragons] Dragon uses Idle animation when summoned while playing a campaign level
+86af4cch6,1.8.0,Closed,2026-02-05,2026-04-27,80,[Campaign] Mana appears on trees in campaign level 35
+86af48bzw,2.0.0 Global,to-do,2026-02-05,,,[Geo Fencing] Belgium is blocked on Prod but not on Stage
+86af48580,1.7.0,Closed,2026-02-05,2026-04-27,80,Fix iOS Bubble and Harvest Transaction Bugs Causing Duplicate or Missing Earn Events
+86af47ab1,2.0.0 Global,Closed,2026-02-05,2026-05-11,95,[Grid Elements] [UX/UI] Star Bell Pepper Trees Lack Energy VFX
+86af3gd7b,2.0.0 Global,Closed,2026-02-04,2026-05-11,95,"[Grid Elements] Grey Stone Mines & Mana Spring don't have the ""Tap"" animation. Screenshot."
+86af3gazv,1.7.0,Closed,2026-02-04,2026-04-27,81,"[Build Update] After updating from 1.6.3 to 1.7.0, some villagers and grid elements are still showin"
+86af36vzb,1.7.0,Closed,2026-02-04,2026-04-27,81,[1.6.3] [Server Update] [Campaign] Error when tapping the Campaign icon after updating to 1.7 Server
+86af32w1x,1.8.0,Closed,2026-02-04,2026-04-27,81,[Moderation] Sanctioning a player manually does not silence for the selected time. - Screenshot.
+86af32tv5,2.0.0 Global,Closed,2026-02-04,2026-05-15,100,[UI/UX] [Dragons]  “Needs Ascension” pop-up appears when giving food to a maximum dragon level.
+86af2xhc8,1.8.0,Closed,2026-02-04,2026-04-27,82,[FTUE] Quickly tapping the Harvester button after unlocking the area makes the Wave 2 button disappe
+86af2wq9x,2.0.0 Global,to-do,2026-02-04,,,"[Moderation] When the player is manually silenced, the reason displays ""ERROR"" in the player's mailb"
+86af2wgad,2.0.0 Global,to-do,2026-02-04,,,[Moderation] The player receives two sanctions at once when texting an inappropriate message. - Vide
+86af2cjtp,2.0.0 Global,to-do,2026-02-03,,,[Dragons][UI/UX] The XP bar is not capped at the maximum level.
+86af1ugv5,1.8.0,Closed,2026-02-03,2026-04-27,82,[Accounts] [Recovery] The game is still running while the login screen is displayed. - Video.
+86af1f4ae,1.7.0,Closed,2026-02-03,2026-04-27,83,"[IAP] [Offers] Opening the Offers by the Chest icon or at the shop returns a null reference, softloc"
+86aeyxc9m,2.0.0 Global,Closed,2026-01-30,2026-05-11,101,[UX/UI] Victory Overlay Stuck When Accessing Store While Auto-play Is On
+86aeyu0mr,2.0.0 Global,Closed,2026-01-30,2026-05-11,101,[Animations] [VFX] Croaker Peaking Out Of Water Animation Is On Land
+86aeymhtt,1.7.0,Closed,2026-01-30,2026-04-27,87,"[FTUE][Text] When the player hatches the first dragon egg during FTUE, the text gets stuck on the sc"
+86aey88jc,2.0.0 Global,Closed,2026-01-29,2026-05-08,99,[FTUE] [Grid Elements] Infostone Does Not Show Information Message When Sold
+86aey7wmy,1.7.0,Closed,2026-01-29,2026-04-27,87,[Performance] Frame rate drops when playing around wave 15 and beyond
+86aey73z2,1.8.0,Closed,2026-01-29,2026-04-27,87,[Energy] Energy pop up mentions villagers
+86aexqp7r,1.8.0,Closed,2026-01-29,2026-04-27,88,[Grid Elements] [Merge] Merge Bell Harvester model becomes small if using the Special Offer Bubble.
+86aexnjc9,1.7.0,Closed,2026-01-29,2026-04-27,88,[Conjurer] The Dragon Egg image inside the tooltip is way too big
+86aexkxma,1.8.0,Closed,2026-01-29,2026-04-27,88,[Interstitials] White rectangle on the bottom left displayed with the intersitital
+86aexb5wd,1.7.0,Closed,2026-01-28,2026-04-27,88,"Upon launch, first FTUE step is bugged and the FTUE ends after wave 1"
+86aewywmj,1.7.0,Closed,2026-01-28,2026-04-27,88,[Conjurer] VFX does not play when Conjurer is instantiated in ready state
+86aewp1vp,1.7.0,Closed,2026-01-28,2026-04-27,88,[FTUE] Mana Tutorial Triggers Early And Blocks FTUE Progression
+86aewmn0c,1.7.0,Closed,2026-01-28,2026-04-27,89,[VFX] [FTUE] Pink textures at the main base.
+86aew5v1d,1.7.0,Closed,2026-01-27,2026-04-27,89,"[FTUE] Tapping Spell Canon ""Harvester"" during the Bell Tower ""Harvester"" tutorial blocks player prog"
+86aevvby3,1.8.0,Closed,2026-01-27,2026-04-27,89,[FTUE] [Grid Elements] Dragging Mana To Unlock Blighted Item Blocks FTUE Progression
+86aevgxm7,1.7.0,Closed,2026-01-27,2026-04-27,90,"[Text][FTUE] Tutorial Message ""Open it! [temp]"" when the Dragon Egg is displayed"
+86aevgtg6,1.8.0,Closed,2026-01-27,2026-04-27,90,[Profile] Luna Dragon Avatar doesn't have a difference in the background
+86aevga0q,1.7.0,Closed,2026-01-27,2026-04-27,90,"[Harvester] When 3 level 1 harvesters are merged, the game gets an error, and the items created by i"
+86aev0mgf,1.7.0,Closed,2026-01-26,2026-04-27,90,[OfflineHarvesting] Placeholder VFX appears on the first 4 harvesters of FTUE when players get energ
+86aeunyt8,1.7.0,Closed,2026-01-26,2026-04-27,90,[Conjurer] VFX gets stuck if player claims all the items before the fire effect finishes
+869bwu6g9,1.7.0,Closed,2026-01-23,2026-04-27,93,[UX/UI] [Spire] The player is unable to collect bubble rewards in the main base
+869bwtqu1,1.7.0,Closed,2026-01-23,2026-04-27,93,Sam crash upon merging 3 Crystal Harvester level 5
+869bwtnfk,1.7.0,Closed,2026-01-23,2026-04-27,93,Bubble stopped working
+869bwtgyy,1.7.0,Closed,2026-01-23,2026-04-27,93,[FTUE] [Spire] The victory screen is missing during waves 9 and 10 
+869bwta3m,1.7.0,Closed,2026-01-23,2026-04-27,93,[UX-UI] [FTUE] [OfflineHarvesting] Outdated info stone mentions removed automators
+869bwt0hv,2.0.0 Global,Closed,2026-01-23,2026-05-08,105,[Dragons] Ascended Luna dragon casts a projectile for free at the begining of a wave if it was previ
+869bwrfrw,1.7.0,Closed,2026-01-23,2026-04-27,94,[1.6.3] [Server Update] [Shop] Featured Bundle can't be bought
+869bwre4a,2.0.0 Global,Closed,2026-01-23,2026-04-30,96,iOS prod builds sometimes fail to upload to Testflight silently
+869bwr2jy,1.7.0,Closed,2026-01-23,2026-04-27,94,[1.6.3] [Server Update] [Quests] Player can't collect rewards from the Daily Quest progression bar
+869bwr03v,1.7.0,Closed,2026-01-23,2026-04-27,94,[1.6.3] [Server Update] [Quests] Daily Quests and Milestones completed on 1.6.3 can't be collected o
+869bwf66m,1.7.0,Closed,2026-01-22,2026-04-27,94,[OfflineHarvesting] Bubbles don't explode tapping on them causing errors
+869bwf4h5,2.0.0 Global,Closed,2026-01-22,2026-05-11,108,[FTUE] [UX/UI] Incorrect Text Box Flashes In Between Others In Introduction
+869bweq62,1.7.0,Closed,2026-01-22,2026-04-27,94,[Dragon][Active ability] Cyclone's hero ability is not auto-casting constantly
+869bweek3,1.7.0,Closed,2026-01-22,2026-04-27,94,[Store] [Offline harvester] Gem offers include villagers.
+869bwed9e,1.7.0,Closed,2026-01-22,2026-04-27,94,[OfflineHarvesting] Energy pop up appears during tutorial
+869bweb2h,1.7.0,Closed,2026-01-22,2026-04-27,94,[Shop] Shop is not unlocked by players
+869bwdzj2,1.7.0,Closed,2026-01-22,2026-04-27,94,[Growthbook] There are some Growthbook errors when initializing the game. - log
+869bwdw3m,2.0.0 Global,Closed,2026-01-22,2026-05-08,106,[Editor Only] [Debug] Spellbook cards have a bottom offset on the Editor. Video
+869bwdgb4,1.7.0,Closed,2026-01-22,2026-04-27,94,[OfflineHarvesting] Houses' Energy button on the Info Bar has the Worker Pop-Up when hovered. Screen
+869bwd605,1.7.0,Closed,2026-01-22,2026-04-27,94,[Conjurer] Timer and Speed Up button UI is stretched out above Conjurer as well as the claim tooltip
+869bwb84f,1.7.0,Closed,2026-01-22,2026-04-27,95,[Accounts] The game does not load or allow the creation of a new perm after logging in and out with 
+869bwadua,1.7.0,Closed,2026-01-22,2026-04-27,95,[Special Offer] [Bundle] There are some special offers with ERROR in the title and description. - Vi
+869bwa5yt,1.7.0,Closed,2026-01-22,2026-04-27,95,[Castle] [Crash] The game crashes when the player organically upgrades the Castle to level 2. - Vide
+869bwa2uu,1.7.0,Closed,2026-01-22,2026-04-27,95,[Info Stone] The padlock for the next unlock area overlaps many infostones. - Screenshots.
+869bw9xx2,1.7.0,Closed,2026-01-22,2026-04-27,95,[Tutorial] The tutorial about energy (CollectEnergyElements-22) appears before the next area is unlo
+869bw8upe,1.7.0,Closed,2026-01-22,2026-04-27,95,"[FTUE][Harvester] On the BellHarvesterTap step, if player harvests the wrong harvester, tutorial loc"
+869bw0tzz,1.7.0,Closed,2026-01-21,2026-04-27,95,Android build failed due to ARMv7 linker range limit
+869bw060k,1.7.0,Closed,2026-01-21,2026-04-27,95,Crash when tapping to upgrade castle
+869bvzv3n,1.7.0,Closed,2026-01-21,2026-04-27,95,"[FTUE] It is possible to skip the ""Upgrade Castle"" tutorial"
+869bvy19t,1.7.0,Closed,2026-01-21,2026-04-27,95,[Harvester] [Crash] Tapping on the Spell Cannon Harvester during the first tutorial crashes the game
+869bvxu91,1.7.0,Closed,2026-01-21,2026-04-27,95,[UI/UX] Blossoming Crystal Tree icon is too big
+869bvg800,1.7.0,Closed,2026-01-20,2026-04-27,96,[Grid elements] Opening Dragon Eggs causes multiple bugs.
+869bvg1j4,1.7.0,Closed,2026-01-20,2026-04-27,96,[Grid elements] Gems are not added to the player's total.
+869bvfcyh,1.7.0,Closed,2026-01-20,2026-04-27,96,Prevent Lock text from blocking input
+869bvefzt,1.7.0,Closed,2026-01-20,2026-04-27,96,"[OfflineHarvester] Two ""TAP"" animations overlap on harvesters in two different FTUE instances"
+869bve7xz,1.7.0,Closed,2026-01-20,2026-04-27,96,[Map] The main base map cannot be fully revealed.
+869bvdnpz,1.7.0,Closed,2026-01-20,2026-04-27,96,[Houses] Bound books can be unlocked after wave 275 on the main base
+869buxdfz,1.7.0,Closed,2026-01-19,2026-04-27,97,[Campaign] Enemies don't scale with difficulty 3-6
+869bu77n0,1.7.0,Closed,2026-01-16,2026-04-27,100,[SPIRE]  Player stuck on loading screen
+869bu5wkv,1.7.0,Closed,2026-01-16,2026-04-27,100,[Info Stones] Harvester info stone appears several waves after harvester is introduced
+869bu5786,1.8.0,Closed,2026-01-16,2026-04-27,101,"[FTUE] [Blocking] ""Can't do that while resyncing"" message softblock the game."
+869bu3xvv,1.7.0,Closed,2026-01-16,2026-04-27,101,[Conjurer] Player loses the items from the Conjurer if the Main Base is full
+869bu3p9p,1.7.0,Closed,2026-01-16,2026-04-27,101,[Feedback][Conjurer] Timer tooltip is too difficult to see
+869bu37b7,1.7.0,Closed,2026-01-16,2026-04-27,101,[Conjurer] Timer stuck on 1s when ready to collect and it's not possible to stack the rewards
+869bu33b9,1.7.0,Closed,2026-01-16,2026-04-27,101,[Conjurer] Timer resets when leaving the game
+869bu2vjt,1.7.0,Closed,2026-01-16,2026-04-27,101,[Conjurer] Dragon Egg Hatchery is giving the wrong item
+869btv42q,1.7.0,Closed,2026-01-15,2026-04-27,101,[Energy] Energy boost is display as +0 when after player receives their first house
+869btv01b,1.7.0,Closed,2026-01-15,2026-04-27,101,[UX-UI] [FTUE] [OfflineHarvesting] Info Stones Display Outdated Text
+869btuz7m,1.7.0,Closed,2026-01-15,2026-04-27,101,[Performance] Noticeable fps drop when opening boxes
+869btukzq,1.8.0,Closed,2026-01-15,2026-04-27,101,[OfflineHarvesting] Energy doobers come from house instead of energy pickup
+869btufbz,1.7.0,Closed,2026-01-15,2026-04-27,101,[OfflineHarvesting] Dragon is displayed off-center on the collection screen 
+869btty84,1.8.0,Closed,2026-01-15,2026-04-27,101,"[Login] [Spire] Error screen briefly appears after restoring the internet connection, causing the ga"
+869btttax,1.7.0,Closed,2026-01-15,2026-04-27,101,"[OfflineHarvesting] ArgumentOutOfRangeException in the LimboBubble system. Screenshot, Logs."
+869bttt6t,1.7.0,Closed,2026-01-15,2026-04-27,101,"[OfflineHarvesting] NRE in UserSales Helper. Screenshot, Logs."
+869btt1zx,2.0.0 Global,Closed,2026-01-15,2026-05-14,119,[Localization] Most of the text appears with incorrect font rendering in the localization build.
+869btq8ux,1.7.0,Closed,2026-01-15,2026-04-27,102,[Premium Land] Clicking on the first from left to right Premium Land does not open it for purchase
+869btbmeq,2.0.0 Global,Closed,2026-01-14,2026-04-27,102,Gem balance is incorrect in batched analytics events
+869btb286,1.7.0,Closed,2026-01-14,2026-04-27,102,[OfflineHarvesting] Store HUD icon overlaps with settings icon.
+869bt8bbh,1.7.0,Closed,2026-01-14,2026-04-27,102,[OfflineHarvesting] Energy and Mana doobers are missing during FTUE until wave 9
+869bt3a5c,1.7.0,Closed,2026-01-14,2026-04-27,103,[Spellbook] The game crashes when the player opens the Villager House in the Spellbook. - Video.
+869brqjpp,1.8.0,Closed,2026-01-13,2026-04-27,103,"[Telemetry] storeImpression default shop section is marked as ""Normal"" instead of ""Shop"""
+869brq91f,1.7.0,Closed,2026-01-13,2026-04-27,103,[Tutorial] Tutorial text box persist on screen
+869brmk9h,2.0.0 Global,to-do,2026-01-13,,,[Telemetry] Some triggered deals are not sending the triggeredDealID parameter
+869brkqbw,2.0.0 Global,to-do,2026-01-13,,,[Dragons] Ascending a dragon on the event base won't apply the ascension changes on the skill
+869br6vzb,1.7.0,Closed,2026-01-12,2026-04-27,104,MarketplaceServerApi fails to activate due to obsolete IHostingEnvironment dependency
+869br1egh,2.0.0 Global,to-do,2026-01-12,,,[Telemetry] Missing telemetry information when getting a reconnect during account creation or using 
+869bqd7zd,1.8.0,Closed,2026-01-09,2026-04-27,107,[SPIRE] Player stuck on loading screen after updating to version 1.6.2
+869bqbgu6,1.7.0,Closed,2026-01-09,2026-04-27,107,AnalyticsInitializationException: Analytics module not started. Call StartAsync before performing th
+869bqa5a4,1.8.0,Closed,2026-01-09,2026-04-27,107,"[Events] Elemental Monument level 2, 3 and 4 upgrade HP incorrectly"
+869bq9qv3,1.7.0,Closed,2026-01-09,2026-04-27,108,[Fog] [Campaign] Fog background is cut on the borders at Campaign.
+869bq9by1,1.7.0,Closed,2026-01-09,2026-04-27,108,[FTUE] [Error] The game triggers an error when the Quest Book tutorial appears during the FTUE
+869bq5nm4,1.7.0,Closed,2026-01-09,2026-04-27,108,[OfflineHarvesting] One-Time Harvesters can't be Harvested. Video.
+869bpyqh5,1.7.0,Closed,2026-01-08,2026-04-27,108,"[OfflineHarvesting] The ""Villager Harvesting"" icon is still present over Harvesters. Screenshot."
+869bpxdjj,1.7.0,Closed,2026-01-08,2026-04-27,108,"[OfflineHarvesting] Even if the player has no energy, the Hearth flame VFX is set to maximum when th"
+869bpxbx8,1.7.0,Closed,2026-01-08,2026-04-27,108,"[OfflineHarvester] The first Harvester has two ""TAP"" animations overlapping. Video."
+869bpxbkc,1.7.0,Closed,2026-01-08,2026-04-27,108,[OfflineHarvesting] The Energy Generation Bar informs that more energy will be generated than the pl
+869bpxb3w,1.7.0,Closed,2026-01-08,2026-04-27,108,[OfflineHarvesting] It's possible to become softlocked on wave 6 after merging lvl 2 Bell Towers. Vi
+869bpxarr,1.7.0,Closed,2026-01-08,2026-04-27,108,[OfflineHarvesting] It's possible to place other grid elements over Harvesters if the player has no 
+869bpcrqc,1.7.0,Closed,2026-01-07,2026-04-27,109,[OfflineHarvesting] Infostone is not auto-sold after being opened for the first time. Video.
+869bnww8x,1.7.0,Closed,2026-01-06,2026-04-27,110,[OfflineHarvesting] Quest text bar on the main HUD overlaps with the energy timer
+869bnww6r,1.7.0,Closed,2026-01-06,2026-04-27,110,[OfflineHarvesting] Quest FTUE arrow points to Dragon icon instead of Quest icon
+869bnww3b,1.7.0,Closed,2026-01-06,2026-04-27,110,[OfflineHarvesting] The energy timer disappears after wave 6 when player completes harvesting tutori
+869bnwvz5,1.7.0,Closed,2026-01-06,2026-04-27,110,[OfflineHarvesting] Get energy info button has incorrect text. Screenshot.
+869bnwvvq,1.7.0,Closed,2026-01-06,2026-04-27,110,[OfflineHarvesting] Homes in spellbooks have incorrect text
+869bnwvkp,1.7.0,Closed,2026-01-06,2026-04-27,110,[Offlineharvesting] Homes info bar has incorrect text
+869bnwvh0,1.7.0,Closed,2026-01-06,2026-04-27,110,[OfflineHarvesting] Dragons HUD icon overlaps with settings icon after wave 4. Screenshot.
+869bnwvfn,1.7.0,Closed,2026-01-06,2026-04-27,110,[OfflineHarvesting] Infostone arrows never go away. Video.
+869bnwvdh,1.7.0,Closed,2026-01-06,2026-04-27,110,[OfflineHarvesting] After wave 6 hand drag animation may start offscreen. Video.
+869bnwva3,1.7.0,Closed,2026-01-06,2026-04-27,110,"[OfflineHarvesting] After wave 4, hand drag animation may start offscreen. Video."
+869bnw6fp,1.7.0,Closed,2026-01-06,2026-04-27,110,[FTUE] Mana tutorial is triggering at the wrong time and soft locking player
+869bj0qcq,2.0.0 Global,Closed,2025-12-19,2026-05-14,146,[Localization] [All languages] Data preference options are not translated
+869bhzd6k,1.7.0,Closed,2025-12-19,2026-04-27,129,[Telemetry] Duplicates are found in the inAppPurchase event
+869bgzutp,1.8.0,Closed,2025-12-16,2026-04-27,131,Premium Land Fog Fails to Render New Grid Element
+869bgh38v,1.7.0,Closed,2025-12-15,2026-04-27,132,[Fog] [Main Base] Automate Hard Edge not working around 1277 wave.
+869bfjy3e,1.7.0,Closed,2025-12-12,2026-04-27,135,[Loaner Dragons] Skills are only cast by the first dragon that cast the skill.
+869bf71cy,2.0.0 Global,to-do,2025-12-11,,,"[UI] When buying a bundle, the reward screen shows that the player has 0 Gems"
+869beue2j,1.8.0,Closed,2025-12-10,2026-04-27,137,[Live] [Shop] Arrows are present above the price for all items on the Weekly Shop tab
+869beb8wc,2.0.0 Global,Closed,2025-12-09,2026-05-14,156,[Events] Omegas/Ascended enemies have a lot of armor and can break all 3 hearts of the event base
+869be075t,1.8.0,Closed,2025-12-08,2026-04-27,139,[Recovery Method] Unable to access account due to sing-in loop on iOS
+869be050q,1.7.0,Closed,2025-12-08,2026-04-27,139,[Towers] Bell tower damage description is confusing
+869bdzf46,1.7.0,Closed,2025-12-08,2026-04-27,139,[Mushroom Event] [E3] Blighted assets cannot be cleansed
+869bdyz5b,2.0.0 Global,Closed,2025-12-08,2026-05-08,151,[Events] The first wave of Earthquake events is too hard.
+869bdytr0,2.0.0 Global,to-do,2025-12-08,,,[Dragon][UI/UX] The Dragon egg opening animation is interrupted after tapping the open egg button an
+869bdyt47,1.7.0,Closed,2025-12-08,2026-04-27,139,[Dragons][UI/UX] Tremortail's dragon shards have the name Cragmaw
+869bdyrhm,1.7.0,Closed,2025-12-08,2026-04-27,139,[Dragons][UI/UX] Tremortail's name is still Cragmaw in the Dragon's menu if it's still undiscovered
+869bdb9ny,1.7.0,Closed,2025-12-05,2026-04-27,142,[Towers][UI/UX] The tower stats are displaced in the spellbook
+869bdb9fg,1.7.0,Closed,2025-12-05,2026-04-27,142,[Grid Elements] [UX/UI] Dragon Food Makes Reference To Hero Despite No Other Place Refers To Dragons
+869bdb8z3,1.7.0,Closed,2025-12-05,2026-04-27,142,[Towers] There is a gap in the Catapult tower's model
+869bdamec,2.0.0 Global,Closed,2025-12-05,2026-05-05,150,[Events] Event rewards display too small via mail 
+869bd9v80,1.7.0,Closed,2025-12-05,2026-04-27,142,[Dragons] [UI/UX] The Dragon carousel is not dynamically resized at the Dragon tab.
+869bd9qkw,2.0.0 Global,Closed,2025-12-05,2026-04-27,142,"[Spire] [Fortis ID] After signing out, if the User stays idle for some time, the game crashes"
+869bd9dge,1.7.0,Closed,2025-12-05,2026-04-27,142,[Dragon Egg][Main Base] All Open dragon egg and claiming rewards the game gets soft-blocked.
+869bd83xn,1.8.0,Closed,2025-12-05,2026-04-27,143,[UI/UX] Misaligned Rune art and stars on the Rune Chest Reward screen
+869bd81r2,1.8.0,Closed,2025-12-05,2026-04-27,143,[UI/UX] White square background on the runes' locked slots
+869bd7xr3,1.8.0,Closed,2025-12-05,2026-04-27,143,[Spellbook] Cyclone's skill name is displayed as a string on the Spellbook
+869bd098r,1.8.0,Closed,2025-12-04,2026-04-27,143,[UI/UX] [Dragons] Dragon Ascension Preview UI/UX is broken.
+869bd002h,1.7.0,Closed,2025-12-04,2026-04-27,143,[Intro][Art] Intro animation circle is too big and offset vertically.
+869bczq5f,1.8.0,Closed,2025-12-04,2026-04-27,143,[Localization][Spanish] Redraw button remains in English
+869bczpr6,2.0.0 Global,Closed,2025-12-04,2026-05-14,161,[Localization][Spanish] Replay rewards text overspill and overlap in campaign
+869bcznva,2.0.0 Global,Closed,2025-12-04,2026-05-14,161,[Localization] [Spanish] [UX/UI] The text in the offers in the gems section overlaps with other icon
+869bcyzc3,2.0.0 Global,Closed,2025-12-04,2026-05-15,161,[Localization] [Spanish] [UX/UI]The tabs text is displaying incorrectly and breaks into two lines in
+869bcxqpq,2.0.0 Global,Closed,2025-12-04,2026-05-19,166,"[Localization][Portuguese] The text ""promo codes"" does not fit into the text box."
+869bcx4bt,2.0.0 Global,Closed,2025-12-04,2026-05-08,155,[Localization][Portuguese] Gem Offers display strings instead of the translated offer name
+869bcx1ce,2.0.0 Global,Closed,2025-12-04,2026-05-19,166,[Localization][Portuguese] Multiple text overflows  the textbox  on socials
+869bcwzmb,2.0.0 Global,Closed,2025-12-04,2026-05-19,166,"[Localization][Portuguese] ""Replay Rewards"" text is overlap on the campaign"
+869bcunga,1.7.0,Closed,2025-12-04,2026-04-27,144,"[Events] After winning an event wave, the blight spreads only after starting a new one. - Video."
+869bcmdrc,2.0.0 Global,Closed,2025-12-03,2026-05-19,166,[Localization][Portuguese] Multiple text overflow the text boxes on profile screen
+869bcmd9g,2.0.0 Global,Closed,2025-12-03,2026-05-08,155,[Localization][Portuguese] Spellbook have multiple error and visual corruptions
+869bcmcxp,1.8.0,Closed,2025-12-03,2026-04-27,144,[Info Stones] Missing assets on several Info Stones
+869bcm3t3,1.7.0,Closed,2025-12-03,2026-04-27,144,[Campaign][VFX] The map outline seems with the fog at Campaign.
+869bckzm0,1.8.0,Closed,2025-12-03,2026-04-27,144,[Campaign][VFX] Fog covers up two catapults at level 43.
+869bckmmx,2.0.0 Global,Closed,2025-12-03,2026-05-15,162,[Localization] [Spanish] [UX/UI]The PROMO CODES pop-up text is misaligned in the PROMOS screen after
+869bck5gz,2.0.0 Global,Closed,2025-12-03,2026-05-19,167,"[Localization] [Spanish] [UX/UI] The ""Copy ID"" text dissappears from the button after tapping it in "
+869bck1dm,2.0.0 Global,Closed,2025-12-03,2026-05-15,162,[Localization] [Spanish] [UX/UI] The Copy ID text is too small to read in the player profile 
+869bchgh1,2.0.0 Global,Closed,2025-12-03,2026-05-08,156,[Localization][All] Shop displaying placeholder instead of string
+869bchbrd,2.0.0 Global,Closed,2025-12-03,2026-05-19,167,[Localization][Italian] Feature tab title extends beyond margin
+869bcgjdw,2.0.0 Global,to-do,2025-12-03,,,[Daily Quests] Daily Quests' rewards are not automatically claimed when the Quests are reset. Screen
+869bcg7e7,1.7.0,Closed,2025-12-03,2026-04-27,145,[Deals] [IAP] [Interstitials] Mana Well deal has some art issues. Screenshot.
+869bc78py,2.0.0 Global,Closed,2025-12-02,2026-05-15,163,[Localization] [Spanish] [UX/UI]The Premium land purchase screen title text is misaligned after swit
+869bc73q9,2.0.0 Global,Closed,2025-12-02,2026-05-19,167,"[Localization] [Deutsch] Settings ""Notifications"" text tab goes out of border"
+869bc7383,2.0.0 Global,Closed,2025-12-02,2026-05-18,166,[Localization] [Deutsch] Difficulty text is misaligned in Campaign
+869bc735w,2.0.0 Global,Closed,2025-12-02,2026-05-15,163,[Localization] [Spanish] [UX/UI]The UNDO button text is misaligned after switching the language to S
+869bc6r95,2.0.0 Global,Closed,2025-12-02,2026-05-19,167,[Localization][Italian] Promo and settings tab titles exceed menu margin
+869bc6efp,2.0.0 Global,Closed,2025-12-02,2026-05-15,163,[Localization] [French] [UX/UI] Text In Tabs Are Misaligned On The Shop
+869bc66jw,2.0.0 Global,Closed,2025-12-02,2026-05-19,168,[Localization][Turkish] “Milestone” tab title is displayed outside margin
+869bc5p45,2.0.0 Global,Closed,2025-12-02,2026-05-15,163,[Localization] [French] [UX/UI] Text Is Misaligned On Campaign HUD In Finished Levels
+869bc5kd5,2.0.0 Global,Closed,2025-12-02,2026-05-19,168,[Localization][Turkish] Guild tab title extends beyond margin
+869bc5gyv,2.0.0 Global,Closed,2025-12-02,2026-05-19,168,[Localization][Turkish] Manage account tab buttons are too small to read
+869bc5fuf,2.0.0 Global,Closed,2025-12-02,2026-05-19,168,[Localization][Turkish] Promos tab title exceeds menu margin
+869bc5cdx,2.0.0 Global,Closed,2025-12-02,2026-05-19,168,[Localization][Turkish][Deutsch][Italian] Premium Land pop-up title gets overlapped by exit button
+869bbndfg,1.8.0,Closed,2025-12-01,2026-04-27,146,[Telemetry] [spire_SessionStart] [Analytics] The spire_SessionStart event can be triggered multiple 
+869bbn5n4,1.8.0,Closed,2025-12-01,2026-04-27,146,"[Telemetry] [spire_SessionStart] [Analytics] The Notifications' NotifStaminaFull subparameter from """
+869baxhwf,2.0.0 Global,in qa,2025-11-28,,,[IAP] [Deals] Trigger Deals Disappear After Canceling Purchase
+869ba492z,2.0.0 Global,to-do,2025-11-26,,,"[Device Specific]  During the FTUE, the text box overlaps with the Wave button"
+869b9qy5r,2.0.0 Global,to-do,2025-11-25,,,[Dragon] Luna ability cast automatically without cost when a wave starts.
+869b9n72r,1.7.0,Closed,2025-11-25,2026-04-27,152,[Dragons] [UI/UX] Cragmaw´s texts fields are undefined at the Dragon menu.
+869b962wm,1.7.0,blocked,2025-11-24,,,[OneTrust] [Mailing] There's no toggle option to enable/unable the mailing option on the settings. S
+869b8guda,1.7.0,Closed,2025-11-21,2026-04-27,156,[Campaign] [Levels] The waves of some levels get darker during the level.
+869b8gq7f,1.8.0,Closed,2025-11-21,2026-04-27,156,[UX/UI] Old Names For Villagers In The Sleeping Menu
+869b87vdu,1.8.0,Closed,2025-11-20,2026-04-27,157,"[Fortis ID] Warning ""You´ve signed on another device"" pop-up without logging in"
+869b85y1q,1.8.0,Closed,2025-11-20,2026-04-27,157,[UX/UI] Bubbled rewards items appear misaligned
+869b7v7ra,1.7.0,Closed,2025-11-19,2026-04-27,158,[Events] Rune reward for mushroomS1E4 weekly leaderboard is misaligned
+869b7v7ar,1.7.0,Closed,2025-11-19,2026-04-27,158,[Store] [Runes] Stars in the runes overlap on the Runa chest Drops pop-up
+869b7v6vc,1.7.0,Closed,2025-11-19,2026-04-27,158,[Dragon] [Visual] Dragon's tiles are missing for Ascension levels 3 and 4.
+869b7ugnc,1.8.0,Closed,2025-11-19,2026-04-27,158,"[Fortis ID] The Fortis ID account gets disconnected when losing internet connection, causing the pla"
+869b7teap,2.0.0 Global,to-do,2025-11-19,,,[Recovery] [GPG] [Specific] Google Play Games does not connect to the game anymore. Video.
+869b7td8n,2.0.0 Global,Closed,2025-11-19,2026-04-27,158,[Recovery Methods] Conflict between Game Center account and connected Fortis ID account is not happe
+869b794yw,1.7.0,Closed,2025-11-18,2026-04-27,160,[Fortis ID] [Recovery methods] Signing in on two devices with the same Fortis ID account does not di
+869b6xa15,2.0.0 Global,Closed,2025-11-17,2026-05-20,184,"[Recovery method] [UI/UX] The button from the recovery method, conflicting with Fortis ID, displays "
+869b6w5yt,2.0.0 Global,in qa,2025-11-17,,,[Performance] The performance decreases drastically over time and the game crashes. Video.
+869b63gqf,1.7.0,Closed,2025-11-14,2026-04-27,163,[Towers][UI/UX] The Catapult tower image in Spellbook is too big
+869b5pmh0,2.0.0 Global,reopened,2025-11-13,,,[Device specific] [UX/UI] UI elements overlap on iPhone SE 2020
+869b5jg4q,2.0.0 Global,to-do,2025-11-13,,,[UI/UX][IAP] Deal's number badge is not updating when purchasing it
+869b5g259,2.0.0 Global,in progress,2025-11-13,,,[Recovery methods] [Telemetry] The event sdk_signInCompleted is not triggering after the player sign
+869b52xkh,1.7.0,Closed,2025-11-12,2026-04-27,166,[Analytics] [Telemetry] [IAP] The interstitialId parameter is missing from the dealAction event.
+869b4tumu,1.7.0,Closed,2025-11-11,2026-04-27,166,[Telemetry][Dragons] Transaction event when unlocking a hero tower directly from shards doesn't have
+869b47yn3,2.0.0 Global,reopened,2025-11-10,,,Clean Up 100% State of BP Icon
+869b3hn79,1.8.0,Closed,2025-11-07,2026-04-27,170,[Altars] The GoodAltars (Enemy nerf) is not working properly. Please read the description. - Video.
+869b35mg0,1.8.0,Closed,2025-11-06,2026-04-27,171,[Interstitials] Modal for the Interstitials displayed on top of splash screen when reconnecting
+869b35fg7,2.0.0 Global,Closed,2025-11-06,2026-05-08,183,[Interstitials] Action button with external deep link navigation doesn't work
+869b31t9f,1.8.0,Closed,2025-11-06,2026-04-27,172,[Interstitials] Resource Value trigger is not respecting the amount setup
+869b31k9n,1.7.0,Closed,2025-11-06,2026-04-27,172,[Interstitials] Ritual trigger offers are not correctly if there are too many offers with different 
+869b2qtxw,1.8.0,Closed,2025-11-05,2026-04-27,172,[OneTrust] The 'Data Consent Preferences' popup shows up again to the player after updating app vers
+869b1u1tu,2.0.0 Global,to-do,2025-11-03,,,Hidden Dragon Issue in Summoning Circle UI
+869b0ygg9,2.0.0 Global,Closed,2025-10-31,2026-05-08,189,[UI/UX][Tutorial] The arrow it's not pointing at Dragon tile during Feeding Dragon Tutorial.
+869b0gkkv,1.7.0,Closed,2025-10-30,2026-04-27,178,[UI/UX][Events] Visually Broken Event Ended Summary pop-up
+869b02za7,2.0.0 Global,reopened,2025-10-29,,,"[UI/UX] When tapping on certain resources, collected amounts count up to UI before the doobers anima"
+869ay46cz,2.0.0 Global,Closed,2025-10-23,2026-05-08,197,"[Telemetry] Some transactions are missing the ""transactionPlacement"" Base information"
+869ay445h,1.8.0,Closed,2025-10-23,2026-04-27,185,[Telemetry] eventReward information is duplicated for Event Pass' claimable and claimed items
+869ay41yn,1.8.0,Closed,2025-10-23,2026-04-27,185,[UI/UX] Title of tooltip looks like a nametag
+869ay0rwk,2.0.0 Global,to-do,2025-10-23,,,[Spellbook] The scroll bar from the spellbook is not working. - Video.
+869axpb33,1.8.0,Closed,2025-10-22,2026-04-27,186,[UI/UX][Shop] Tapping on the Gem's + icon will always open a new instance of the shop
+869ax94b9,2.0.0 Global,Closed,2025-10-21,2026-05-13,203,[UX/UI] Many Max Level Items Don't Have Spellbook Button
+869ax7adg,2.0.0 Global,Closed,2025-10-21,2026-05-07,198,[Items] Items turn transparent after placing them on the path during wave
+869awtfeq,2.0.0 Global,in progress,2025-10-20,,,"[Dragon] In the Dragon Bar experience, the full bar has corrupted textures after opening an egg"
+869avmzu0,1.7.0,Closed,2025-10-16,2026-04-27,192,[UX/UI] [Altar] [Spawner] Max Level Altars And Spawners Don't Have Spellbook Button
+869av6pnt,1.7.0,Closed,2025-10-15,2026-04-27,193,[UX/UI] Stone Blocks Have strings text In Item Description
+869av663g,1.8.0,Closed,2025-10-15,2026-04-27,193,[Towers] Catapult tower is hitting flying enemies
+869att80x,1.7.0,Closed,2025-10-10,2026-04-27,198,[Aspect ratio] [UI] The progression bar for the daily quest does not cover all milestones.
+869atq8d9,1.7.0,Closed,2025-10-10,2026-04-27,198,"[Promo] [CS] If promo codes' rewards are grid elements, they are not received instantly. Video."
+869atnej4,1.7.0,Closed,2025-10-10,2026-04-27,199,[Spire] Critical Error
+869apupg2,2.0.0 Global,Closed,2025-10-02,2026-05-14,224,"Guild Player Report Option Missing, Only Block Available in v1.3.1"
+869akahwq,1.7.0,Closed,2025-09-23,2026-04-27,215,[Debug][Event] Events can’t be started via debug on iOS
+869ak4fu1,1.7.0,Closed,2025-09-23,2026-04-27,216,[UI/UX] [Campaign] The pointing arrow on the info stone does not disappear after reading the info on
+869ahy7jw,1.7.0,Closed,2025-09-19,2026-04-27,219,[Stage][UI/UX] Some Item quantities don´t show at the chest rewards preview.
+869ahx58h,2.0.0 Global,Closed,2025-09-19,2026-05-12,235,Spinshot Towers Fire Extremely Fast and Small Projectiles
+869ahga9g,1.7.0,Closed,2025-09-18,2026-04-27,220,[Magmarok] Magmarok's Special Ability triggers at a different location if the wave ends before the a
+869ahfdu3,1.8.0,Closed,2025-09-18,2026-04-27,220,[Tutorial] Tutorial modals overlap several menu pop ups
+869ah0yah,1.7.0,Closed,2025-09-17,2026-04-27,221,[Telemetry] [Events] tutorialStep with missing and misplaced steps
+869ah0eby,1.8.0,Closed,2025-09-17,2026-04-27,221,[Milestones] iOS reward screen displays beige background
+869aegk0h,1.7.0,Closed,2025-09-10,2026-04-27,228,[Player Profile] Top Towers assets are misaligned. Screenshot.
+869adc3hp,2.0.0 Global,Closed,2025-09-08,2026-04-27,231,[Localization] The OneTrust Data Consent Preference Management has some SDK or Services items not lo
+869a6j6dh,2.0.0 Global,in qa,2025-08-19,,,[One Trust] Data preferences buttons are missing the translation into Spanish
+869a5mq5v,1.8.0,Closed,2025-08-17,2026-04-27,252,"[Auth] [Fortis Account] It's not possible to use the ""+"" to create a new  Fortis ID for the same ema"
+869a5mn94,1.8.0,Closed,2025-08-17,2026-04-27,252,[Auth] [Fortis Account] Cross-platform account recovery is currently not working when the account is
+869981xpk,2.0.0 Global,Closed,2025-05-29,2026-05-08,344,[Music] The music disappears after losing connection due to screen timeout or minimizing the game. V
+8698zrruz,2.0.0 Global,to-do,2025-05-07,,,[Names] It's possible to use other players' names. Video.
+8698znyyr,2.0.0 Global,Closed,2025-05-07,2026-05-08,366,[Player Support] The Help Center page does not rotates with the device. Screenshot.
+8698w57g1,1.8.0,Closed,2025-04-28,2026-04-27,364,[Telemetry][transactions] Incorrect contexts and missing transactionId for Campaign earns
+8698d3f1r,2.0.0 Global,Closed,2025-03-19,2026-05-07,413,[Telemetry][transactions] Earn and sink Events when player is selling items to gain resources in exc

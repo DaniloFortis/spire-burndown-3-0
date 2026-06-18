@@ -1,0 +1,21 @@
+{
+    "3.0.0": {
+        "milestone_name": "3.0.0",
+        "clickup_name": "3.0.0",
+        "release_calendar_name": "Client 9",
+        "key_dates": {
+            "feature_complete": "2026-06-18",
+            "bug_fixing_only": "2026-06-18",
+            "code_freeze": "2026-06-26",
+            "server_update": "2026-06-29",
+            "submit": "2026-07-01",
+            "go_live": "2026-07-06"
+        },
+        "notes": "Primary 3.0.0 release. Feature Complete 2026-06-18, Code Freeze 2026-06-26, Go Live 2026-07-06."
+    },
+    "six_month_window": {
+        "start_date": "2025-12-18",
+        "end_date": "2026-06-18",
+        "notes": "Six-month rolling window leading to 3.0.0 feature complete"
+    }
+}

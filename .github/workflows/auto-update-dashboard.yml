@@ -1,0 +1,139 @@
+name: Auto-Update Bug Burndown Dashboard
+
+on:
+  schedule:
+    # Run 3 times daily on weekdays (Mon-Fri)
+    # Times in UTC - converted from Pacific Time:
+    # 7:00 AM PT = 14:00 UTC (2 PM)
+    # 12:00 PM PT = 19:00 UTC (7 PM)
+    # 4:00 PM PT = 23:00 UTC (11 PM)
+    - cron: '0 14 * * 1-5'  # 7 AM PT
+    - cron: '0 19 * * 1-5'  # 12 PM PT
+    - cron: '0 23 * * 1-5'  # 4 PM PT
+
+  # Allow manual trigger for testing
+  workflow_dispatch:
+
+# Required for pushing commits
+permissions:
+  contents: write
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Full history needed for git operations
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Fetch bug data from ClickUp
+        env:
+          CLICKUP_API_KEY: ${{ secrets.CLICKUP_API_KEY }}
+          # Multi-list fetch: 3.0.0 dedicated list + backlog/sprints/triage where
+          # bugs may live before they get tagged to the 3.0.0 milestone.
+          # Fetcher deduplicates tasks that appear in multiple lists.
+          CLICKUP_LIST_IDS: "901326883737,901207871711,901206064082,901211328806,901326883162,901326883179,901326883209,901327316653"
+        run: |
+          echo "CLICKUP_API_KEY=$CLICKUP_API_KEY" > .env
+          echo "CLICKUP_LIST_IDS=$CLICKUP_LIST_IDS" >> .env
+          python clickup_batch_fetcher.py
+
+      - name: Parse bug data
+        run: |
+          python parse_and_map_milestones.py
+
+      - name: Update historical actuals with all dates through today
+        run: |
+          # Update the historical actuals file to include all dates from 3.0.0 start through today.
+          # 3.0.0 tracking starts at Feature Complete (2026-06-18).
+          python -c "
+          from datetime import datetime
+          import re
+
+          # Read and update the calculate_historical_actuals.py script
+          with open('calculate_historical_actuals.py', 'r') as f:
+              content = f.read()
+
+          # Update END_DATE to today (regex resilient to current date)
+          now = datetime.now()
+          year, month, day = now.year, now.month, now.day
+          content = re.sub(
+              r'END_DATE = datetime\([^)]+\)',
+              f'END_DATE = datetime({year}, {month}, {day})',
+              content
+          )
+
+          # Update OUTPUT_FILE to match the date range: 06_18 (3.0.0 start) → today
+          today_suffix = now.strftime('%m_%d')
+          content = re.sub(
+              r'OUTPUT_FILE = \"historical_actuals_[^\"]+\.json\"',
+              f'OUTPUT_FILE = \"historical_actuals_06_18_to_{today_suffix}.json\"',
+              content
+          )
+
+          with open('calculate_historical_actuals.py', 'w') as f:
+              f.write(content)
+          "
+
+          # Run the updated script to calculate actuals through today
+          python calculate_historical_actuals.py
+          # Note: calculate_burndown_projections.py auto-discovers the latest historical_actuals_*.json
+          # via _find_historical_actuals_file(), so no sed update is needed here.
+
+      - name: Recalculate projections and regenerate dashboard
+        run: |
+          python calculate_burndown_projections.py
+          python generate_burndown_projection_chart.py
+          cp spire_3_0_projection_dashboard.html docs/index.html
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+          # Check if there are changes
+          if [[ -n $(git status --porcelain) ]]; then
+            git add docs/index.html burndown_projections.json historical_actuals_*.json burndown_chart.png slack_message.json spire_3_0_projection_dashboard.html
+
+            # Get metrics for commit message
+            BUGS=$(python -c "import json; data=json.load(open('burndown_projections.json')); print(data['current_active_bugs'])")
+            DAYS=$(python -c "import json; data=json.load(open('burndown_projections.json')); print(data.get('business_days_to_code_freeze', 0))")
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+
+            git commit -m "Auto-update: ${BUGS} bugs, ${DAYS} days to freeze" -m "${TIMESTAMP}"
+            git push
+
+            echo "✅ Dashboard updated and pushed"
+          else
+            echo "ℹ️ No changes to commit"
+          fi
+
+      - name: Summary
+        run: |
+          echo "## 📊 Dashboard Update Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          BUGS=$(python -c "import json; data=json.load(open('burndown_projections.json')); print(data['current_active_bugs'])")
+          DAYS=$(python -c "import json; data=json.load(open('burndown_projections.json')); print(data.get('business_days_to_code_freeze', 0))")
+          RATE=$(python -c "import json; data=json.load(open('burndown_projections.json')); print(f\"{data.get('estimated_line_rate', data['historical_daily_rate']):.2f}\")")
+          GAP=$(python -c "import json; data=json.load(open('burndown_projections.json')); print(f\"{data['metrics']['velocity_gap']:.1f}\")")
+
+          echo "- **Active Bugs:** ${BUGS}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Days to Code Freeze:** ${DAYS}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Estimated Rate:** ${RATE} bugs/day" >> $GITHUB_STEP_SUMMARY
+          echo "- **Velocity Gap:** ${GAP}x" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🔗 [View Live Dashboard](https://DaniloFortis.github.io/spire-burndown-3-0/)" >> $GITHUB_STEP_SUMMARY

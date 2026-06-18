@@ -1,0 +1,13 @@
+{
+  "calculated_date": "2026-06-18T16:37:21.823360",
+  "method": "Retroactive calculation from bug created/closed dates",
+  "start_date": "2026-06-18",
+  "end_date": "2026-06-18",
+  "days_included": 1,
+  "actuals": [
+    {
+      "date": "2026-06-18",
+      "count": 86
+    }
+  ]
+}
