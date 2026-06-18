@@ -27,10 +27,10 @@ if sys.platform == 'win32':
 # Configuration
 BUGS_FILE = "bugs_with_parsed_dates.json"
 # Output file is named based on the date range (auto-generated)
-OUTPUT_FILE = "historical_actuals_06_18_to_06_18.json"
+OUTPUT_FILE = "historical_actuals_06_11_to_06_18.json"
 
-# Date range — chart starts at Feature Complete (2026-06-18) for 3.0.0
-START_DATE = datetime(2026, 6, 18)
+# Date range — chart starts on Thu Jun 11 (one week before 3.0.0 Feature Complete)
+START_DATE = datetime(2026, 6, 11)
 END_DATE = datetime(2026, 6, 18)
 
 # Active statuses for math calculations (excludes "In QA" per requirement)

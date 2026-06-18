@@ -57,8 +57,8 @@ jobs:
 
       - name: Update historical actuals with all dates through today
         run: |
-          # Update the historical actuals file to include all dates from 3.0.0 start through today.
-          # 3.0.0 tracking starts at Feature Complete (2026-06-18).
+          # Update the historical actuals file to include all dates from chart start through today.
+          # 3.0.0 chart starts on Thu Jun 11 (one week before Feature Complete).
           python -c "
           from datetime import datetime
           import re
@@ -76,11 +76,11 @@ jobs:
               content
           )
 
-          # Update OUTPUT_FILE to match the date range: 06_18 (3.0.0 start) → today
+          # Update OUTPUT_FILE to match the date range: 06_11 (chart start) → today
           today_suffix = now.strftime('%m_%d')
           content = re.sub(
               r'OUTPUT_FILE = \"historical_actuals_[^\"]+\.json\"',
-              f'OUTPUT_FILE = \"historical_actuals_06_18_to_{today_suffix}.json\"',
+              f'OUTPUT_FILE = \"historical_actuals_06_11_to_{today_suffix}.json\"',
               content
           )
 

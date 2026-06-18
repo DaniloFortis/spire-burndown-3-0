@@ -551,7 +551,7 @@ def generate_dashboard(projections):
 
     <div class="footer">
         <p><strong>Generated:</strong> {datetime.now().strftime('%B %d, %Y at %I:%M %p')}</p>
-        <p><strong>Data Source:</strong> ClickUp Spire 3.0.0 Bugs | Tracking Window: Jun 18 - Jul 6, 2026</p>
+        <p><strong>Data Source:</strong> ClickUp Spire 3.0.0 Bugs | Tracking Window: Jun 11 - Jul 6, 2026</p>
         <p style="margin-top: 10px; font-size: 12px; color: #95A5A6;">
             This projection uses historical find vs fix rates to estimate trajectory.
             The Actual line will update daily with real bug counts from ClickUp.

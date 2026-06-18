@@ -49,7 +49,7 @@ _milestone_dates = load_milestone_dates()
 
 # Key Dates - now loaded from milestone_dates_3.0.0.json
 # Chart starts when 3.0.0 tracking begins (kept in sync with first historical actual)
-CHART_START = datetime(2026, 6, 18)
+CHART_START = datetime(2026, 6, 11)
 TODAY = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
 CODE_FREEZE = datetime.strptime(_milestone_dates['code_freeze'], '%Y-%m-%d')
 SUBMIT = datetime.strptime(_milestone_dates['submit'], '%Y-%m-%d')
