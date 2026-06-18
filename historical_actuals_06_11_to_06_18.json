@@ -1,5 +1,5 @@
 {
-  "calculated_date": "2026-06-18T16:48:55.538142",
+  "calculated_date": "2026-06-18T19:52:12.643275",
   "method": "Retroactive calculation from bug created/closed dates",
   "start_date": "2026-06-11",
   "end_date": "2026-06-18",
@@ -7,7 +7,7 @@
   "actuals": [
     {
       "date": "2026-06-11",
-      "count": 84
+      "count": 83
     },
     {
       "date": "2026-06-12",
@@ -15,7 +15,7 @@
     },
     {
       "date": "2026-06-13",
-      "count": 88
+      "count": 87
     },
     {
       "date": "2026-06-14",
