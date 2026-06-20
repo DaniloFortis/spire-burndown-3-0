@@ -1,0 +1,49 @@
+{
+  "calculated_date": "2026-06-20T00:13:25.546746",
+  "method": "Retroactive calculation from bug created/closed dates",
+  "start_date": "2026-06-11",
+  "end_date": "2026-06-20",
+  "days_included": 10,
+  "actuals": [
+    {
+      "date": "2026-06-11",
+      "count": 79
+    },
+    {
+      "date": "2026-06-12",
+      "count": 82
+    },
+    {
+      "date": "2026-06-13",
+      "count": 83
+    },
+    {
+      "date": "2026-06-14",
+      "count": 84
+    },
+    {
+      "date": "2026-06-15",
+      "count": 84
+    },
+    {
+      "date": "2026-06-16",
+      "count": 81
+    },
+    {
+      "date": "2026-06-17",
+      "count": 85
+    },
+    {
+      "date": "2026-06-18",
+      "count": 90
+    },
+    {
+      "date": "2026-06-19",
+      "count": 83
+    },
+    {
+      "date": "2026-06-20",
+      "count": 75
+    }
+  ]
+}
