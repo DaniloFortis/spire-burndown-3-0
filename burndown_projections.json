@@ -1,22 +1,21 @@
 {
   "generated_date": "2026-06-23",
-  "generated_timestamp": "2026-06-23T00:11:19.591373",
+  "generated_timestamp": "2026-06-23T16:25:37.471226",
   "chart_start_date": "2026-06-11",
-  "chart_start_bug_count": 76,
-  "current_active_bugs": 62,
+  "chart_start_bug_count": 73,
+  "current_active_bugs": 53,
   "status_breakdown": {
-    "to-do": 26,
-    "in progress": 16,
-    "in qa": 14,
-    "code review": 13,
-    "reopened": 4,
-    "build pending": 3,
-    "triage": 1
+    "to-do": 27,
+    "in qa": 22,
+    "in progress": 14,
+    "code review": 9,
+    "reopened": 2,
+    "build pending": 1
   },
   "historical_daily_rate": -3.8,
   "actual_2_0_rate": 14.6,
-  "ideal_rate_per_day": -20.67,
-  "ideal_rate_from_start": -6.91,
+  "ideal_rate_per_day": -17.67,
+  "ideal_rate_from_start": -6.64,
   "estimated_line_rate": -3.8,
   "estimated_line_rate_source": "historical average",
   "business_days_to_code_freeze": 3,
@@ -33,63 +32,63 @@
     "ideal": [
       {
         "date": "2026-06-11",
-        "count": 76.0
+        "count": 73.0
       },
       {
         "date": "2026-06-12",
-        "count": 69.09
+        "count": 66.36
       },
       {
         "date": "2026-06-13",
-        "count": 69.09
+        "count": 66.36
       },
       {
         "date": "2026-06-14",
-        "count": 69.09
+        "count": 66.36
       },
       {
         "date": "2026-06-15",
-        "count": 62.18
+        "count": 59.73
       },
       {
         "date": "2026-06-16",
-        "count": 55.27
+        "count": 53.09
       },
       {
         "date": "2026-06-17",
-        "count": 48.36
+        "count": 46.45
       },
       {
         "date": "2026-06-18",
-        "count": 41.45
+        "count": 39.82
       },
       {
         "date": "2026-06-19",
-        "count": 34.55
+        "count": 33.18
       },
       {
         "date": "2026-06-20",
-        "count": 34.55
+        "count": 33.18
       },
       {
         "date": "2026-06-21",
-        "count": 34.55
+        "count": 33.18
       },
       {
         "date": "2026-06-22",
-        "count": 27.64
+        "count": 26.55
       },
       {
         "date": "2026-06-23",
-        "count": 20.73
+        "count": 19.91
       },
       {
         "date": "2026-06-24",
-        "count": 13.82
+        "count": 13.27
       },
       {
         "date": "2026-06-25",
-        "count": 6.91
+        "count": 6.64
       },
       {
         "date": "2026-06-26",
@@ -99,118 +98,118 @@
     "estimated": [
       {
         "date": "2026-06-23",
-        "count": 62
+        "count": 53
       },
       {
         "date": "2026-06-24",
-        "count": 58.2
+        "count": 49.2
       },
       {
         "date": "2026-06-25",
-        "count": 54.4
+        "count": 45.4
       },
       {
         "date": "2026-06-26",
-        "count": 50.6
+        "count": 41.6
       },
       {
         "date": "2026-06-27",
-        "count": 50.6
+        "count": 41.6
       },
       {
         "date": "2026-06-28",
-        "count": 50.6
+        "count": 41.6
       },
       {
         "date": "2026-06-29",
-        "count": 46.8
+        "count": 37.8
       },
       {
         "date": "2026-06-30",
-        "count": 43.0
+        "count": 34.0
       },
       {
         "date": "2026-07-01",
-        "count": 39.2
+        "count": 30.2
       },
       {
         "date": "2026-07-02",
-        "count": 35.4
+        "count": 26.4
       },
       {
         "date": "2026-07-03",
-        "count": 31.6
+        "count": 22.6
       },
       {
         "date": "2026-07-04",
-        "count": 31.6
+        "count": 22.6
       },
       {
         "date": "2026-07-05",
-        "count": 31.6
+        "count": 22.6
       },
       {
         "date": "2026-07-06",
-        "count": 27.8
+        "count": 18.8
       }
     ],
     "actual": [
       {
         "date": "2026-06-11",
-        "count": 76
+        "count": 73
       },
       {
         "date": "2026-06-12",
-        "count": 78
+        "count": 74
       },
       {
         "date": "2026-06-13",
-        "count": 78
+        "count": 74
       },
       {
         "date": "2026-06-14",
-        "count": 79
+        "count": 74
       },
       {
         "date": "2026-06-15",
-        "count": 79
+        "count": 74
       },
       {
         "date": "2026-06-16",
-        "count": 77
+        "count": 72
       },
       {
         "date": "2026-06-17",
-        "count": 81
+        "count": 75
       },
       {
         "date": "2026-06-18",
-        "count": 86
+        "count": 79
       },
       {
         "date": "2026-06-19",
-        "count": 80
+        "count": 72
       },
       {
         "date": "2026-06-20",
-        "count": 72
+        "count": 64
       },
       {
         "date": "2026-06-21",
-        "count": 72
+        "count": 64
       },
       {
         "date": "2026-06-22",
-        "count": 72
+        "count": 64
       },
       {
         "date": "2026-06-23",
-        "count": 62
+        "count": 53
       }
     ]
   },
   "metrics": {
-    "velocity_gap": 1.42,
+    "velocity_gap": 1.21,
     "on_track": false
   }
 }
