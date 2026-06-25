@@ -31,7 +31,7 @@ PROJECTIONS_FILE = "burndown_projections.json"
 TODAY = datetime.now().date()
 
 
-# Active statuses for math calculations (excludes "In QA" per requirement)
+# Active statuses for math calculations (now INCLUDES "In QA" per updated requirement)
 ACTIVE_MATH_STATUSES = [
     'to-do',
     'reopened',
@@ -41,7 +41,8 @@ ACTIVE_MATH_STATUSES = [
     'code review',
     'build pending',
     'blocked',
-    'need more info'
+    'need more info',
+    'in qa'
 ]
 
 # Statuses to exclude from dashboard breakdown (Closed/Won't Fix)
@@ -49,7 +50,7 @@ EXCLUDED_FROM_DASHBOARD = ['closed', "won't fix"]
 
 
 def is_active_for_math(status):
-    """Check if a bug status counts as active for math (excludes In QA)."""
+    """Check if a bug status counts as active for math (now includes In QA)."""
     if not status:
         return False
     return status.lower().strip() in ACTIVE_MATH_STATUSES
@@ -65,12 +66,12 @@ def is_excluded_from_dashboard(status):
 def count_active_bugs():
     """
     Count current active 3.0.0 bugs (using ACTIVE_MATH_STATUSES allowlist).
-    Excludes In QA per requirement.
+    Includes In QA per updated requirement. Excludes only Closed and Won't Fix.
 
     Returns:
         int: Current active bug count
     """
-    print(f"📊 Counting active 3.0.0 bugs (excluding In QA)...")
+    print(f"📊 Counting active 3.0.0 bugs (including In QA)...")
 
     with open(BUGS_FILE, 'r', encoding='utf-8') as f:
         bugs = json.load(f)

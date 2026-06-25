@@ -110,8 +110,8 @@ def load_historical_actuals():
         return None
 
 
-# Active statuses for math calculations (excludes "In QA" per requirement)
-# These statuses indicate work still needs to be done (not yet ready for QA)
+# Active statuses for math calculations (now INCLUDES "In QA" per updated requirement)
+# Any bug not yet Closed/Won't Fix counts as active toward the burndown
 ACTIVE_MATH_STATUSES = [
     'to-do',
     'reopened',
@@ -121,7 +121,8 @@ ACTIVE_MATH_STATUSES = [
     'code review',
     'build pending',
     'blocked',
-    'need more info'
+    'need more info',
+    'in qa'
 ]
 
 # Statuses considered "non-active" (excluded from dashboard breakdown cards)
@@ -129,7 +130,7 @@ EXCLUDED_FROM_DASHBOARD = ['closed', "won't fix"]
 
 
 def is_active_for_math(status):
-    """Check if a bug status counts as active for math calculations (excludes In QA)."""
+    """Check if a bug status counts as active for math calculations (includes In QA)."""
     if not status:
         return False
     return status.lower().strip() in ACTIVE_MATH_STATUSES
@@ -145,7 +146,7 @@ def is_excluded_from_dashboard(status):
 def count_active_2_0_bugs(bugs):
     """
     Count current active 3.0.0 bugs using ACTIVE_MATH_STATUSES allowlist.
-    Excludes "In QA" per requirement - those bugs don't need dev work.
+    Includes "In QA" per updated requirement (excludes only Closed and Won't Fix).
 
     Args:
         bugs: List of parsed bug dictionaries
@@ -161,7 +162,7 @@ def count_active_2_0_bugs(bugs):
 
     print(f"\n📊 3.0.0 Bug Analysis:")
     print(f"   Total 3.0.0 bugs: {len([b for b in bugs if b.get('milestone_simplified') == '3.0.0'])}")
-    print(f"   Active (excludes In QA, Closed, WON'T FIX): {len(active_bugs)}")
+    print(f"   Active (includes In QA; excludes Closed, WON'T FIX): {len(active_bugs)}")
 
     # Show status breakdown
     status_counts = {}

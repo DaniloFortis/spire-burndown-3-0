@@ -33,7 +33,7 @@ OUTPUT_FILE = "historical_actuals_06_11_to_06_18.json"
 START_DATE = datetime(2026, 6, 11)
 END_DATE = datetime(2026, 6, 18)
 
-# Active statuses for math calculations (excludes "In QA" per requirement)
+# Active statuses for math calculations (now INCLUDES "In QA" per updated requirement)
 # A bug currently in one of these statuses is considered active for math purposes
 ACTIVE_MATH_STATUSES = [
     'to-do',
@@ -44,12 +44,13 @@ ACTIVE_MATH_STATUSES = [
     'code review',
     'build pending',
     'blocked',
-    'need more info'
+    'need more info',
+    'in qa'
 ]
 
 
 def is_active_for_math(status):
-    """Check if a bug status counts as active for math calculations (excludes In QA)."""
+    """Check if a bug status counts as active for math calculations (includes In QA)."""
     if not status:
         return False
     return status.lower().strip() in ACTIVE_MATH_STATUSES
@@ -81,10 +82,10 @@ def calculate_daily_counts(bugs, start_date, end_date):
         dict: {date_str: count} for each day
     """
     print(f"\n📊 Calculating daily counts from {start_date.strftime('%b %d')} to {end_date.strftime('%b %d, %Y')}...")
-    print(f"   Excluding bugs currently in 'In QA' status from math (per requirement)")
+    print(f"   Including 'In QA' in active math (per updated requirement)")
 
     # Filter to 3.0.0 bugs that are currently active for math
-    # (excludes bugs currently in QA, Closed, or Won't Fix)
+    # (includes In QA; excludes Closed and Won't Fix)
     milestone_3_0_active = [
         bug for bug in bugs
         if bug.get('milestone_simplified') == '3.0.0'
