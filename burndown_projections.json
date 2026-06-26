@@ -1,30 +1,30 @@
 {
-  "generated_date": "2026-06-25",
-  "generated_timestamp": "2026-06-25T20:57:40.812086",
+  "generated_date": "2026-06-26",
+  "generated_timestamp": "2026-06-26T00:14:11.562338",
   "chart_start_date": "2026-06-11",
   "chart_start_bug_count": 72,
-  "current_active_bugs": 30,
+  "current_active_bugs": 28,
   "status_breakdown": {
-    "in qa": 11,
+    "in qa": 10,
     "code review": 5,
     "in progress": 5,
     "to-do": 4,
-    "build pending": 3,
+    "build pending": 2,
     "blocked": 1,
     "reopened": 1
   },
   "historical_daily_rate": -3.8,
-  "actual_2_0_rate": 15.29,
-  "ideal_rate_per_day": -30.0,
+  "actual_2_0_rate": 13.38,
+  "ideal_rate_per_day": -28.0,
   "ideal_rate_from_start": -6.55,
-  "estimated_line_rate": -4.7,
+  "estimated_line_rate": -5.2,
   "estimated_line_rate_source": "last 10 business days",
-  "business_days_to_code_freeze": 1,
-  "calendar_days_to_code_freeze": 1,
-  "days_to_go_live": 11,
+  "business_days_to_code_freeze": 0,
+  "calendar_days_to_code_freeze": 0,
+  "days_to_go_live": 10,
   "key_dates": {
     "chart_start": "2026-06-11",
-    "today": "2026-06-25",
+    "today": "2026-06-26",
     "code_freeze": "2026-06-26",
     "submit": "2026-07-01",
     "go_live": "2026-07-06"
@@ -98,48 +98,44 @@
     ],
     "estimated": [
       {
-        "date": "2026-06-25",
-        "count": 30
-      },
-      {
         "date": "2026-06-26",
-        "count": 25.3
+        "count": 28
       },
       {
         "date": "2026-06-27",
-        "count": 25.3
+        "count": 28
       },
       {
         "date": "2026-06-28",
-        "count": 25.3
+        "count": 28
       },
       {
         "date": "2026-06-29",
-        "count": 20.6
+        "count": 22.8
       },
       {
         "date": "2026-06-30",
-        "count": 15.9
+        "count": 17.6
       },
       {
         "date": "2026-07-01",
-        "count": 11.2
+        "count": 12.4
       },
       {
         "date": "2026-07-02",
-        "count": 6.5
+        "count": 7.2
       },
       {
         "date": "2026-07-03",
-        "count": 1.8
+        "count": 2.0
       },
       {
         "date": "2026-07-04",
-        "count": 1.8
+        "count": 2.0
       },
       {
         "date": "2026-07-05",
-        "count": 1.8
+        "count": 2.0
       },
       {
         "date": "2026-07-06",
@@ -205,12 +201,16 @@
       },
       {
         "date": "2026-06-25",
-        "count": 30
+        "count": 37
+      },
+      {
+        "date": "2026-06-26",
+        "count": 28
       }
     ]
   },
   "metrics": {
-    "velocity_gap": 1.96,
+    "velocity_gap": 2.09,
     "on_track": false
   }
 }
