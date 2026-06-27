@@ -1,0 +1,77 @@
+{
+  "calculated_date": "2026-06-27T00:13:39.321980",
+  "method": "Retroactive calculation from bug created/closed dates",
+  "start_date": "2026-06-11",
+  "end_date": "2026-06-27",
+  "days_included": 17,
+  "actuals": [
+    {
+      "date": "2026-06-11",
+      "count": 69
+    },
+    {
+      "date": "2026-06-12",
+      "count": 74
+    },
+    {
+      "date": "2026-06-13",
+      "count": 76
+    },
+    {
+      "date": "2026-06-14",
+      "count": 77
+    },
+    {
+      "date": "2026-06-15",
+      "count": 77
+    },
+    {
+      "date": "2026-06-16",
+      "count": 75
+    },
+    {
+      "date": "2026-06-17",
+      "count": 78
+    },
+    {
+      "date": "2026-06-18",
+      "count": 83
+    },
+    {
+      "date": "2026-06-19",
+      "count": 78
+    },
+    {
+      "date": "2026-06-20",
+      "count": 71
+    },
+    {
+      "date": "2026-06-21",
+      "count": 71
+    },
+    {
+      "date": "2026-06-22",
+      "count": 71
+    },
+    {
+      "date": "2026-06-23",
+      "count": 64
+    },
+    {
+      "date": "2026-06-24",
+      "count": 52
+    },
+    {
+      "date": "2026-06-25",
+      "count": 34
+    },
+    {
+      "date": "2026-06-26",
+      "count": 26
+    },
+    {
+      "date": "2026-06-27",
+      "count": 21
+    }
+  ]
+}
