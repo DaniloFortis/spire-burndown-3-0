@@ -1,5 +1,5 @@
 {
-  "calculated_date": "2026-06-30T16:20:57.072996",
+  "calculated_date": "2026-06-30T20:59:16.760148",
   "method": "Retroactive calculation from bug created/closed dates",
   "start_date": "2026-06-11",
   "end_date": "2026-06-30",
@@ -7,83 +7,83 @@
   "actuals": [
     {
       "date": "2026-06-11",
-      "count": 69
+      "count": 68
     },
     {
       "date": "2026-06-12",
-      "count": 74
+      "count": 73
     },
     {
       "date": "2026-06-13",
-      "count": 76
-    },
-    {
-      "date": "2026-06-14",
-      "count": 77
-    },
-    {
-      "date": "2026-06-15",
-      "count": 77
-    },
-    {
-      "date": "2026-06-16",
       "count": 75
     },
     {
+      "date": "2026-06-14",
+      "count": 76
+    },
+    {
+      "date": "2026-06-15",
+      "count": 76
+    },
+    {
+      "date": "2026-06-16",
+      "count": 74
+    },
+    {
       "date": "2026-06-17",
-      "count": 78
-    },
-    {
-      "date": "2026-06-18",
-      "count": 82
-    },
-    {
-      "date": "2026-06-19",
       "count": 77
     },
     {
+      "date": "2026-06-18",
+      "count": 80
+    },
+    {
+      "date": "2026-06-19",
+      "count": 75
+    },
+    {
       "date": "2026-06-20",
-      "count": 70
+      "count": 68
     },
     {
       "date": "2026-06-21",
-      "count": 70
+      "count": 68
     },
     {
       "date": "2026-06-22",
-      "count": 70
+      "count": 68
     },
     {
       "date": "2026-06-23",
-      "count": 63
+      "count": 61
     },
     {
       "date": "2026-06-24",
-      "count": 51
+      "count": 49
     },
     {
       "date": "2026-06-25",
-      "count": 33
+      "count": 31
     },
     {
       "date": "2026-06-26",
-      "count": 25
+      "count": 23
     },
     {
       "date": "2026-06-27",
-      "count": 27
+      "count": 25
     },
     {
       "date": "2026-06-28",
-      "count": 27
+      "count": 25
     },
     {
       "date": "2026-06-29",
-      "count": 27
+      "count": 25
     },
     {
       "date": "2026-06-30",
-      "count": 21
+      "count": 19
     }
   ]
 }
