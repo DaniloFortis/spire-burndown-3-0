@@ -1,27 +1,28 @@
 {
-  "generated_date": "2026-06-29",
-  "generated_timestamp": "2026-06-29T20:50:23.694368",
+  "generated_date": "2026-06-30",
+  "generated_timestamp": "2026-06-30T00:08:57.111543",
   "chart_start_date": "2026-06-11",
   "chart_start_bug_count": 69,
-  "current_active_bugs": 23,
+  "current_active_bugs": 20,
   "status_breakdown": {
-    "in qa": 8,
-    "in progress": 6,
-    "code review": 6,
-    "to-do": 3
+    "code review": 7,
+    "in qa": 5,
+    "in progress": 4,
+    "to-do": 3,
+    "build pending": 1
   },
   "historical_daily_rate": -3.8,
-  "actual_2_0_rate": 10.0,
-  "ideal_rate_per_day": -23.0,
+  "actual_2_0_rate": 9.33,
+  "ideal_rate_per_day": -20.0,
   "ideal_rate_from_start": -6.27,
-  "estimated_line_rate": -5.2,
+  "estimated_line_rate": -5.8,
   "estimated_line_rate_source": "last 10 business days",
   "business_days_to_code_freeze": 0,
-  "calendar_days_to_code_freeze": -3,
-  "days_to_go_live": 7,
+  "calendar_days_to_code_freeze": -4,
+  "days_to_go_live": 6,
   "key_dates": {
     "chart_start": "2026-06-11",
-    "today": "2026-06-29",
+    "today": "2026-06-30",
     "code_freeze": "2026-06-26",
     "submit": "2026-07-01",
     "go_live": "2026-07-06"
@@ -95,32 +96,28 @@
     ],
     "estimated": [
       {
-        "date": "2026-06-29",
-        "count": 23
-      },
-      {
         "date": "2026-06-30",
-        "count": 17.8
+        "count": 20
       },
       {
         "date": "2026-07-01",
-        "count": 12.6
+        "count": 14.2
       },
       {
         "date": "2026-07-02",
-        "count": 7.4
+        "count": 8.4
       },
       {
         "date": "2026-07-03",
-        "count": 2.2
+        "count": 2.6
       },
       {
         "date": "2026-07-04",
-        "count": 2.2
+        "count": 2.6
       },
       {
         "date": "2026-07-05",
-        "count": 2.2
+        "count": 2.6
       },
       {
         "date": "2026-07-06",
@@ -202,12 +199,16 @@
       },
       {
         "date": "2026-06-29",
-        "count": 23
+        "count": 27
+      },
+      {
+        "date": "2026-06-30",
+        "count": 20
       }
     ]
   },
   "metrics": {
-    "velocity_gap": 2.3,
+    "velocity_gap": 2.14,
     "on_track": false
   }
 }
