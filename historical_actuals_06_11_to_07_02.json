@@ -1,5 +1,5 @@
 {
-  "calculated_date": "2026-07-02T00:15:12.745825",
+  "calculated_date": "2026-07-02T16:03:14.164552",
   "method": "Retroactive calculation from bug created/closed dates",
   "start_date": "2026-06-11",
   "end_date": "2026-07-02",
@@ -91,7 +91,7 @@
     },
     {
       "date": "2026-07-02",
-      "count": 2
+      "count": 3
     }
   ]
 }
