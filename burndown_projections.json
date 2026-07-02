@@ -1,15 +1,15 @@
 {
   "generated_date": "2026-07-02",
-  "generated_timestamp": "2026-07-02T16:03:14.210775",
+  "generated_timestamp": "2026-07-02T20:18:59.541445",
   "chart_start_date": "2026-06-11",
   "chart_start_bug_count": 68,
   "current_active_bugs": 2,
   "status_breakdown": {
-    "reopened": 1,
+    "in progress": 1,
     "in qa": 1
   },
   "historical_daily_rate": -3.8,
-  "actual_2_0_rate": 9.07,
+  "actual_2_0_rate": 9.14,
   "ideal_rate_per_day": -2.0,
   "ideal_rate_from_start": -6.18,
   "estimated_line_rate": -7.3,
